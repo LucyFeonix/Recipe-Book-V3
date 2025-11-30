@@ -2,13 +2,12 @@
 id: 1762634092424273
 tags:
   - RecipeBook
-Last edit: 2025-12-1 00:01
+Last edit: 2025-12-1 00:23
 Created: 2025-11-18 05:27
 ---
 This is a list of recipes that I have not yet written out, but sound interesting or that I have simply not worked out yet. It is in no particular order.
 https://www.ah.nl/allerhande/recept/R-R1197717/gebakken-rijst-met-chinese-kool-en-ham 
 [[Burek Sa Sirom]] - note: eastern yugoslav use more onion less meat, while western yugoslav use more meat less onion. Ruza makes one variant which is just cheese, and one variant which is just meat. Cheese with no onions, meat with onions. Can be left in the oven for a little longer than recommended - gets better the crunchier it is. More oily is traditional, but can be left out for health concerns.
-[[Miso Imo]]
 [[Singapore Mei Fun]]
 [[Pico de Gallo]]
 [[Mămăligă cu brânză și smântână]]

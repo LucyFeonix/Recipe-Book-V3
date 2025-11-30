@@ -1,3 +1,7 @@
+---
+Last edit: 2025-12-1 00:15
+Created: 2025-12-1 00:15
+---
 # Recipe Book V3
 This is a collection of recipes by LucyFeonix for the purpose of having an archive of what I cook.
 All rights belong to the original authors of the recipes where relevant, as tagged in the recipes.
