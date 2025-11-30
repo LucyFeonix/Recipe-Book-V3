@@ -1,0 +1,15 @@
+---
+id: 1762634091802144
+---
+# Ingredients
+- 1 shot [[Kontiki|kontiki]]
+- 1 shot [[Pisang Ambon|pisang ambon]]
+- 1 shot [[Amaretto|amaretto]]
+- 1 shot [[Orange|orange juice]]
+# Notes
+- 1 serving 
+- Requirements: [[Tumbler|tumbler]]
+- Contains 18.25% ABV
+# Directions
+1. Mix the ingredients.
+#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

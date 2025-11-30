@@ -1,0 +1,17 @@
+---
+id: 1762634091915131
+---
+# Ingredients
+- 1/4 shot [[Passoã|passoa]]
+- 1/4 shot [[Blue Curaçao|blue curaçao]]
+- 1/4 shot [[Pisang Ambon|pisang ambon]]
+- 1/4 shot [[Coebergh|coebergh]]
+- [[Orange|orange juice]]
+# Notes
+- 1 serving
+- Requirements: [[Longdrink Glass|longdrink glass]]
+- Contains 2.16% ABV
+# Directions
+1. Mix the passoa, blue curaçao, pisang ambon and coebergh.
+2. Top up with orange juice.
+#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

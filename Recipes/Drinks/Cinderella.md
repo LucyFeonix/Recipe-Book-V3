@@ -1,0 +1,16 @@
+---
+id: 1762634091495191
+---
+# Ingredients
+- 1/3 shot [[Monin Grenadine|monin grenadine]]
+- 3 shots [[Tonic|tonic]]
+- 1/3 shot [[Lemon|lemon juice]]
+- [[Sprite]]
+# Notes
+- 1 serving
+- Requirements: [[Longdrink Glass|longdrink glass]]
+- Contains 0.00% ABV
+# Directions
+1. Mix the grenadine syrup, the tonic, and the lemon juice.
+2. Top up with sprite.
+#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Non-Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

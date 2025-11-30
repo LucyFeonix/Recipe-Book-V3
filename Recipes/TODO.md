@@ -1,0 +1,58 @@
+---
+id: 1762634092424273
+tags:
+  - RecipeBook
+Last edit: 2025-12-1 00:01
+Created: 2025-11-18 05:27
+---
+This is a list of recipes that I have not yet written out, but sound interesting or that I have simply not worked out yet. It is in no particular order.
+https://www.ah.nl/allerhande/recept/R-R1197717/gebakken-rijst-met-chinese-kool-en-ham 
+[[Burek Sa Sirom]] - note: eastern yugoslav use more onion less meat, while western yugoslav use more meat less onion. Ruza makes one variant which is just cheese, and one variant which is just meat. Cheese with no onions, meat with onions. Can be left in the oven for a little longer than recommended - gets better the crunchier it is. More oily is traditional, but can be left out for health concerns.
+[[Miso Imo]]
+[[Singapore Mei Fun]]
+[[Pico de Gallo]]
+[[Mămăligă cu brânză și smântână]]
+[[Chili Con Carne]]
+https://www.allrecipes.com/recipe/51304/bills-sausage-gravy/ [[Sausage Gravy]]
+https://www.allrecipes.com/recipe/220943/chef-johns-buttermilk-biscuits/ [[Buttermilk Biscuits]]
+https://www.lecremedelacrumb.com/best-super-moist-cornbread/ [[Cornbread]]
+https://www.allrecipes.com/recipe/216888/good-new-orleans-creole-gumbo/ [[Creole Gumbo]]
+https://www.allrecipes.com/recipe/31848/jambalaya/ [[Jambalaya]]
+https://www.allrecipes.com/recipe/13041/my-best-clam-chowder/ [[Clam Chowder]]
+[[Tom Kha Kai]]
+[[Yam Nua]]
+[[Pai Huang Gua]]
+[[Wakame]]
+[[Teriyaki Chicken]]
+[[Kyoto Pork Ribs (Jin Du Pai Gu)]]
+[[Korean BBQ Chicken (Bulgogi)]]
+[[Chicken Panang]]
+[[Yao Yan Yu]]
+[[Cha Siu Bao]]
+[[Kimchi Mandu]]
+[[Babi Panggang]]
+[[Beef Teriyaki (gyu teriyaki)]]
+[[Usuyaki]]
+[[Sha Cha Beef Stirfry]]
+[[Daging Roedjak]]
+[[Korean BBQ Beef (Bulgogi)]]
+[[Beef Panang]]
+[[Glazed Japanese Salmon (Sake Yaki)]]
+[[Goat Satay (sate kambing)]]
+[[Shrimp Dumplings (Xia Jiao)]]
+[[Sichuan Salt and Pepper Prawns (jiao yan xia)]]
+[[Shrimp Panang]]
+[[Teriyaki Shrimp]]
+[[Nai Wong Bao]]
+[[Foe Yong Hai]]
+[[Peking Duck]]
+[[Apfelstrudel]] 
+[[Goat Cheese Salad]]
+[[Pulled Chicken Salad]] 
+[[Dame Blanche]]
+[[Banoffee Trifle]]
+[[Korean Fried Chicken Wings]]
+[[kombu tsukudani]]
+[[Furikake|furikake]]
+[[Spotted Dick]]
+https://www.jumbo.com/recepten/gevulde-oliebollen-1000628 [[Stuffed Oliebollen]]
