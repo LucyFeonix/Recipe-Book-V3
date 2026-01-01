@@ -34,4 +34,4 @@ When no specific kind of oil is mentioned, something like vegetable oil or olive
 	- Good in baking
 #RecipeBook/Ingredient/Category
 
-[[TODO]]: rephrase the article to be more in line with other category articles. Can only really be done after the other oil articles are done.
+[[02 - Areas/II. Recipes/Recipes/TO-SORT/TODO]]: rephrase the article to be more in line with other category articles. Can only really be done after the other oil articles are done.

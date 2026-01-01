@@ -9,7 +9,7 @@ id: 1762634092094071
 - 2 tsp [[Thyme|dried thyme]]
 - 300g [[Rice|rice]]
 - 150g [[Kale|kale]]
-- 1 [[Vegetable stock|vegetable stock tablet]]
+- 1 [[Vegetable Stock|vegetable stock tablet]]
 - 750ml water
 - 50g [[Almonds|almonds]]
 # Notes

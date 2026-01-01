@@ -5,4 +5,4 @@ Shallots are smaller, brown-skinned onions with purple flesh. They're pungent an
 
 #RecipeBook/Ingredient 
 
-[[TODO]]
+[[02 - Areas/II. Recipes/Recipes/TO-SORT/TODO]]

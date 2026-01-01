@@ -1,5 +1,7 @@
 ---
 id: 1762634091191240
+Last edit: 2025-12-5 17:50
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 3/4 lbs [[Minced Meat|minced pork]]
@@ -10,8 +12,9 @@ id: 1762634091191240
 - 1/4 cup [[Shaoxing Cooking Wine|shaoxing wine]]
 - 2 tsp [[Granulated Sugar|sugar]]
 - [[Noodles|noodles]]
-- 5 tbsp [[Ground Soybean Sauce|ground soybean sauce]]
-- 1/4 cup [[Sweet Bean Sauce|sweet bean sauce]]
+- 5 tbsp [[Ground Soybean Paste|ground soybean paste]] / [[Yellow Bean Paste|yellow bean paste]]
+- 1/4 cup [[Sweet Bean Sauce|sweet bean sauce]] / [[Hoisin Sauce|hoisin sauce]]
+- X quantity [[Dry Bean Paste|dry bean paste]]
 - 1 tbsp [[Light Soy Sauce|light soy sauce]]
 - 1/2 tsp [[Dark Soy Sauce|dark soy sauce]]
 - 1/4 cup water

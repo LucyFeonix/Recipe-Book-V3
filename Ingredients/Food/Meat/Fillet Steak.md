@@ -4,6 +4,6 @@ aliases:
   - fillet steak
 id: 1762634089862523
 ---
-[[TODO]]
+[[02 - Areas/II. Recipes/Recipes/TO-SORT/TODO]]
 
 #RecipeBook/Ingredient

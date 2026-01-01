@@ -1,6 +1,6 @@
 ---
 id: 1762634089885524
 ---
-[[TODO]]
+[[02 - Areas/II. Recipes/Recipes/TO-SORT/TODO]]
 
 #RecipeBook/Ingredient 

@@ -32,4 +32,4 @@ There are several types of salt. In most cases, it will not matter if you use ta
 	This kind of salt is usually too expensive for day-to-day cooking. It is best used as a garnish, and mostly add texture rather than flavour.. Included in this are **himalayan pink salt, fleur de sel, and sel gris.**
 #RecipeBook/Ingredient/Category  
 
-[[TODO]]: separate the types of salt into their own articles, preferably specifying more things.
+[[02 - Areas/II. Recipes/Recipes/TO-SORT/TODO]]: separate the types of salt into their own articles, preferably specifying more things.
