@@ -1,5 +1,7 @@
 ---
 id: 1762634090967260
+Last edit: 2026-01-2 21:46
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 4 [[Chicken Thigh Fillet|chicken thighs]]
@@ -21,6 +23,6 @@ id: 1762634090967260
 2. Heat 1 1/2 tbsp oil in a pan, and fry the onion until glassy. Press the garlic, and add to the onion along with the mushrooms. Cook the mixture for two minutes.
 3. Add the chicken stock, the cooking cream, and some salt and pepper. Add the pasta, and turn the fire to low. Simmer for 15 minutes, until the pasta is al dente.
 4. Stir the parmesan through the pasta until it melts. 
-5. Heat a spoo of olive oil in a frying pan and fry the chicken on both sides for about 2-3 minutes per side, until they are golden brown. Cut into strips, and divide over the pasta.
+5. Heat a spoon of oil in a frying pan and fry the chicken on both sides for about 2-3 minutes per side, until they are golden brown. Cut into strips, and divide over the pasta.
 6. Garnish with parsley and extra parmesan.
 #RecipeBook/Cuisine/American/USA #RecipeBook/Source/24Kitchen #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Pasta #RecipeBook/Diet/Meat/Chicken 
