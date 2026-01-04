@@ -1,11 +1,11 @@
 ---
 tags:
   - RecipeBook/Cuisine/Unknown
-	  - RecipeBook/Source/StardewValley
+  - RecipeBook/Source/StardewValley
   - RecipeBook/Course/Main
   - RecipeBook/TypeOfFood/Stirfry
   - RecipeBook/Diet/Vegetarian
-Last edit: 2026-01-2 22:24
+Last edit: 2026-01-3 22:55
 Created: 2026-01-2 22:10
 ---
 # Ingredients

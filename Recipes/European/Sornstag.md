@@ -1,5 +1,7 @@
 ---
 id: 1762634092116067
+Last edit: 2026-01-3 20:17
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/4 cup fine [[Bread Crumbs|bread crumbs]]
@@ -27,7 +29,7 @@ id: 1762634092116067
 3. Add the olive oil and whole garlic to the pan, return it to medium heat, and cook, undisturbed, for 1 minute. Add the almonds and cook, stirring constantly, until browned and fragrant, ± 1 minute. 
 > [!Warning] Be vigilant, as they can burn quickly!
 4. With a slotted spoon, scoop the almonds and garlic and 1/3 cup of the almonds to the breadcrumbs, reserve the remaining almonds separately. Pour the oil from the pan into a small bowl and set aside. Carefully wipe out the pan.
-5. Sprinkle the venison all over with 1 1/2 tsp salt and 1 tsp [[Black Pepper|pepper]]. Set the pan over medium-high heat, add 2 tsp of the neutral oil, and warm until shimmering. Add about 1/3 of the venison, so the pieces are close together in a single layer, but not touching, and cook, undisturbed, until well browned on the bottom, ±2 minutes. Turn the pieces and repeat. 
+5. Sprinkle the venison all over with 1 1/2 tsp [[Salt|salt]] and 1 tsp [[Black Pepper|pepper]]. Set the pan over medium-high heat, add 2 tsp of the neutral oil, and warm until shimmering. Add about 1/3 of the venison, so the pieces are close together in a single layer, but not touching, and cook, undisturbed, until well browned on the bottom, ±2 minutes. Turn the pieces and repeat. 
 6. Transfer the meat out of the pan, and repeat until all the meat is browned.
 7. Set the sauté pan over medium heat, add the reserved olive oil, and allow it to warm for a moment. Add the onions, bay leaves, thyme, a pinch of salt, and cook, stirring and scraping the bottom of the pan to loosen any caramelized bits, until softened, ± 6 minutes. 
 8. Add the chicken broth to the sauté pan along with the venison, and stir to combine all of the ingredients present. Return to a strong simmer.

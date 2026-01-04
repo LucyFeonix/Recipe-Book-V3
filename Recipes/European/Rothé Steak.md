@@ -1,5 +1,7 @@
 ---
 id: 1762634092111068
+Last edit: 2026-01-3 20:16
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 2 1-lb [[Steak|boneless strip steak]]
@@ -12,7 +14,7 @@ id: 1762634092111068
 - Requirements: cast-iron skillet
 - Time: 
 # Directions
-1. Using paper towels, pat the steaks dry and generously season with salt and [[Black Pepper|pepper]] on both sides and along the edges. Let rest at room temperature for an hour
+1. Using paper towels, pat the steaks dry and generously season with [[Salt|salt]] and [[Black Pepper|pepper]] on both sides and along the edges. Let rest at room temperature for an hour
 > [!note] Or refrigerate, loosely covered, for up to two days. Return to room temperature before continuing.
 2. Set a cast-iron skillet over medium heat for 7 minutes. Adjust the heat to high, and add the oil, swirl to cover the bottom of the pan.
 3. Add the steaks, and cook, flipping them every 30 seconds, until a pale golden crust begins to form on both sides: 3 to 4 minutes.
