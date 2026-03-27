@@ -1,6 +1,6 @@
 ---
 id: 1762634091191240
-Last edit: 2025-12-5 17:50
+Last edit: 2026-01-11 14:27
 Created: 2025-11-18 05:27
 ---
 # Ingredients
@@ -14,7 +14,7 @@ Created: 2025-11-18 05:27
 - [[Noodles|noodles]]
 - 5 tbsp [[Ground Soybean Paste|ground soybean paste]] / [[Yellow Bean Paste|yellow bean paste]]
 - 1/4 cup [[Sweet Bean Sauce|sweet bean sauce]] / [[Hoisin Sauce|hoisin sauce]]
-- X quantity [[Dry Bean Paste|dry bean paste]]
+- *X quantity [[Dry Bean Paste|dry bean paste]]*
 - 1 tbsp [[Light Soy Sauce|light soy sauce]]
 - 1/2 tsp [[Dark Soy Sauce|dark soy sauce]]
 - 1/4 cup water
