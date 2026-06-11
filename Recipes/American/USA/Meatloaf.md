@@ -1,5 +1,13 @@
 ---
-id: 1762634091010256
+tags:
+  - RecipeBook/Cuisine/American/USA
+  - RecipeBook/Source/AllRecipes
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Meat
+  - RecipeBook/Diet/Meat
+Source Book:
+Last edit: 2026-06-7 11:39
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 1/2 lbs [[Minced Meat|minced meat]]
@@ -19,4 +27,3 @@ id: 1762634091010256
 2. Combine the minced meat, onion, milk, bread crumbs and egg in a large bowl; season with [[Salt|salt]] and [[Black Pepper|pepper]]. Transfer into prepared loaf pan.
 3. Mix ketchup, brown sugar, and mustard together in a small bowl until combined. Pour over the meatloaf evenly.
 4. Bake in the oven until no longer pink in the centre - about 1 hour.
-#RecipeBook/Cuisine/American/USA #RecipeBook/Source/AllRecipes #RecipeBook/Course/Side #RecipeBook/TypeOfFood/Meat #RecipeBook/Diet/Meat 

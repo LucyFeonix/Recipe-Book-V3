@@ -1,5 +1,13 @@
 ---
-id: 1762634091056227
+tags:
+  - RecipeBook/Cuisine/American/USA
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Tofu
+  - RecipeBook/Diet/Vegan
+Source Book:
+Last edit: 2026-06-7 21:23
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 1/2 tbsp [[Honey|honey]]

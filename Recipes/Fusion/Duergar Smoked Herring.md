@@ -1,5 +1,14 @@
 ---
-id: 1762634092391062
+tags:
+  - RecipeBook/Cuisine/Fusion
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Fish
+  - RecipeBook/Diet/Pescatarian
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:29
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 1/2 tbsp [[Oil|oil]]
@@ -22,4 +31,3 @@ id: 1762634092391062
 1. In a large skillet over medium heat, warm the oil until shimmering. Add the onion, bell peppers, habanero, and a pinch of [[Salt|salt]], and cook until softened for ±5 minutes. 
 2. Add the tomato paste and cook until fragrant and a shade darker, ±1 1/2 minutes. Add the thyme and garlic and cook for another 40 seconds. Add the tomatoes, and cook until softened (±3 minutes). 
 3. Add the herring and cook until heated through, for about 3 minutes. Incorporate the scallions and lime juice, and season with [[Black Pepper|black pepper]] to taste.
-#RecipeBook/Cuisine/Fusion #RecipeBook/Source/DnD #RecipeBook/Course/Side #RecipeBook/TypeOfFood/Fish #RecipeBook/Diet/Pescatarian  

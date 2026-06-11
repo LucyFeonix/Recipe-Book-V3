@@ -1,5 +1,11 @@
 ---
-id: 1762634091978118
+tags:
+  - RecipeBook/Source/Wikipedia
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:07
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Gold Strike|gold strike]]
@@ -11,4 +17,3 @@ id: 1762634091978118
 # Directions
 1. Pour the shot of gold strike.
 2. Top up with energy drink for as far as possible. Serve the rest of the energy drink separately.
- #RecipeBook/Source/Wikipedia #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Course/Drink #RecipeBook/Diet/Vegan  

@@ -1,5 +1,13 @@
 ---
-id: 1762634091099250
+tags:
+  - RecipeBook/Cuisine/Asian/Chinese
+  - RecipeBook/Source/WoksOfLife
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Stirfry
+  - RecipeBook/Diet/Meat/Beef
+Source Book:
+Last edit: 2026-06-7 11:45
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 350g [[Steak|flank steak]]
@@ -27,5 +35,3 @@ id: 1762634091099250
 3. Lower the heat to medium-high, and add the garlic and peppers. Stir-fry for a couple of seconds, then spread the shaoxing wine to deglaze.
 4. Add the beef back to the wok, along with any juices from the bowl. Add salt, sugar, the remaining light soy sauce, dark soy sauce, and white pepper. Stir-fry for another 1-2 minutes until the peppers turn darker. Serve hot. preferably with [[Rice|rice]]. 
 > [!hint] If you like more sauce, add the chicken stock to further de-glaze the wok and let the liquid reduce slightly. The cornstarch from the marinade will help thicken the sauce.
-
-#RecipeBook/Cuisine/Asian/Chinese #RecipeBook/Source/WoksOfLife #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Meat #RecipeBook/Diet/Meat/Beef  

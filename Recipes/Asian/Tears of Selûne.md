@@ -1,5 +1,14 @@
 ---
-id: 1762634091077225
+tags:
+  - RecipeBook/Cuisine/Asian
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Rice
+  - RecipeBook/Diet/Pescatarian
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:24
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/3 cup [[Mirin|mirin]]
@@ -22,4 +31,3 @@ id: 1762634091077225
 3. Thread the cubed fish onto skewers. Drizzle with oil, and turn gently to coat.
 4. Cook the fish skewers until cooked through and lightly charred (6-8 minutes). Just before removing from the grill, brush over with the glaze.
 5. Serve with rice, and garnish with the scallion and sesame seeds.
-#RecipeBook/Cuisine/Asian #RecipeBook/Source/DnD #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Rice  #RecipeBook/Diet/Pescatarian

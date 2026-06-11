@@ -1,11 +1,12 @@
 ---
 tags:
   - RecipeBook/Cuisine
-  - RecipeBook/Source
+  - RecipeBook/Source/Allerhande
   - RecipeBook/Course
   - RecipeBook/TypeOfFood
   - RecipeBook/Diet
-Last edit: 2026-02-7 13:57
+Source Book: []
+Last edit: 2026-06-10 23:45
 Created: 2026-01-6 12:03
 ---
 # Ingredients

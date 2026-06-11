@@ -1,5 +1,13 @@
 ---
-id: 1762634090906267
+tags:
+  - RecipeBook/Cuisine/American/Mexican
+  - RecipeBook/Source/LoveAndLemons
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Salad
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-7 11:29
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 cup [[Mayonnaise|mayonnaise]]
@@ -18,4 +26,3 @@ id: 1762634090906267
 # Directions
 1. In a medium bowl, combine the mayonnaise, olive oil, lemon juice, mustard, garlic, worcestershire sauce, [[Salt|salt]] and [[Black Pepper|pepper]], and whisk until smooth. Stir in half of the cheese, and season to taste. If the dressing is too thick, stir in water, a teaspoon at a time.
 2. Place the lettuce in a large bowl. Add half the dressing, the croutons, and half of the remaining cheese, and toss to coat. Add dressing to taste, and top with the remaining croutons, cheese, and some pepper.
-#RecipeBook/Cuisine/American/Mexican #RecipeBook/Source/LoveAndLemons #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Salad #RecipeBook/Diet/Vegetarian  

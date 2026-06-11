@@ -1,5 +1,13 @@
 ---
-id: 1762634091107249
+tags:
+  - RecipeBook/Cuisine/Asian/Chinese
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Pork
+  - RecipeBook/Diet/Meat/Pork
+Source Book:
+Last edit: 2026-06-7 11:47
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 900g slab of [[Pork Belly|pork belly]]
@@ -20,5 +28,3 @@ id: 1762634091107249
 4. Pour shaoxing wine, light soy sauce, and dark soy sauce over the meat, and add the rock sugar.
 5. Cover the pot and place over medium high heat, and bring to a boil. Once boiling, turn down to low heat and simmer for 90 minutes.
 6. Turn the belly skin-side up, and let simmer for another 90 minutes.
-
-#RecipeBook/Cuisine/Asian/Chinese #RecipeBook/Course/Side #RecipeBook/Diet/Meat/Pork 

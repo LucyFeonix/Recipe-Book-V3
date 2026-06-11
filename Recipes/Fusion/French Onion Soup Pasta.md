@@ -1,5 +1,14 @@
 ---
-id: 1762634092396059
+tags:
+  - RecipeBook/Cuisine/Fusion
+  - RecipeBook/Source/Allerhande
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Pasta
+  - RecipeBook/Diet/Meat
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-10 23:37
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 800g [[Yellow Onion|yellow onions]]
@@ -23,4 +32,3 @@ id: 1762634092396059
 3. Mix the beef stock and boiling water, and add the pasta. Put to boil for 20 minutes.
 4. Meanwhile, grate the cheese. In the last 5 minutes of boiling the pasta, divide the cheese over the pasta, and cook uncovered for 5 more minutes.
 5. Serve, *garnished with chives*.
-#RecipeBook/Cuisine/Fusion #RecipeBook/Source/Allerhande #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Pasta #RecipeBook/Diet/Meat #RecipeBook/Diet/Vegetarian  

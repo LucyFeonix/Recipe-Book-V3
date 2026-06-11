@@ -5,7 +5,8 @@ tags:
   - RecipeBook/Course/Main
   - RecipeBook/TypeOfFood/Salad
   - RecipeBook/Diet/Meat/Beef
-Last edit: 2025-11-21 05:38
+Source Book:
+Last edit: 2026-06-10 23:35
 Created: 2025-11-21 02:49
 ---
 # Ingredients

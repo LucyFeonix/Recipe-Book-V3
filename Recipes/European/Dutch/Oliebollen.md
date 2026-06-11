@@ -1,5 +1,13 @@
 ---
-id: 1762634092137097
+tags:
+  - RecipeBook/Cuisine/European/Dutch
+  - RecipeBook/Source/LaurasBakery
+  - RecipeBook/Course/Snack
+  - RecipeBook/TypeOfFood/Grease
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-7 22:12
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 500ml [[Milk|milk]]
@@ -22,4 +30,3 @@ id: 1762634092137097
 7. Dip your spoon into the oil again before each batch. There is no need to clean your spoon after each round.
 8. When your oliebollen are ready, put them in a strainer lined with kitchen paper. THe paper absorbs excess fat, which is a good thing.
 9. Serve with [[Powdered Sugar|powdered sugar]] and enjoy.
-#RecipeBook/Cuisine/European/Dutch #RecipeBook/Source/LaurasBakery #RecipeBook/Course/Snack #RecipeBook/TypeOfFood/Grease #RecipeBook/Diet/Vegetarian  

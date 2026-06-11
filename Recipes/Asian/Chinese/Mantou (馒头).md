@@ -5,7 +5,8 @@ tags:
   - RecipeBook/Course/Lunch
   - RecipeBook/TypeOfFood/Bread
   - RecipeBook/Diet/Vegan
-Last edit: 2025-11-20 20:43
+Source Book: []
+Last edit: 2026-06-7 21:11
 Created: 2025-11-20 20:34
 ---
 # Ingredients

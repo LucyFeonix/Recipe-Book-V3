@@ -1,5 +1,13 @@
 ---
-id: 1762634091203237
+tags:
+  - RecipeBook/Cuisine/Asian/Indian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Chicken
+  - RecipeBook/Diet/Meat/Chicken
+Source Book:
+Last edit: 2026-06-7 21:12
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 3 tbsp [[Oil|oil]]
@@ -27,4 +35,3 @@ id: 1762634091203237
 5. Grill the chicken. First on high heat for 2-3 minutes, until it is brown on all sides, then on low-medium heat for 20-40 minutes. It is done when the juices run clear.
 6. Let rest for at least 5 minutes before serving.
 7. Serve with [[Naan|naan bread]], or with [[Rice|indian style rice]].
-#RecipeBook/Cuisine/Asian #RecipeBook/Cuisine/Asian/Indian #RecipeBook/Diet/Meat #RecipeBook/Course/Side 

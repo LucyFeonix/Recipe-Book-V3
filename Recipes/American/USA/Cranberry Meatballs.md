@@ -1,5 +1,13 @@
 ---
-id: 1762634090982257
+tags:
+  - RecipeBook/Cuisine/American/USA
+  - RecipeBook/Source/DinnerAtTheZoo
+  - RecipeBook/Course/Appetizer
+  - RecipeBook/TypeOfFood/Meatballs
+  - RecipeBook/Diet/Meat
+Source Book:
+Last edit: 2026-06-7 11:37
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 2 lbs frozen pre-cooked [[Meatballs|meatballs]]
@@ -17,4 +25,3 @@ id: 1762634090982257
 2. Whisk in the chilli sauce, orange juice and brown sugar; stir until mostly smooth.
 3. Place the meatballs in a slow cooker and pour the sauce over them.
 4. Cook for 4 hours on low in a slow cooker, then serve, *garnished with parsley*.
-#RecipeBook/Cuisine/American/USA  #RecipeBook/Source/DinnerAtTheZoo #RecipeBook/Course/Appetizer #RecipeBook/TypeOfFood/Meatballs #RecipeBook/Diet/Meat  

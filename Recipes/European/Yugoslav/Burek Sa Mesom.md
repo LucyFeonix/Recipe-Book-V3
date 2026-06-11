@@ -1,5 +1,13 @@
 ---
-id: 1762634092358064
+tags:
+  - RecipeBook/Cuisine/European/Serbian
+  - RecipeBook/Source/TheSpruceEats
+  - RecipeBook/Course/Appetizer
+  - RecipeBook/TypeOfFood/Pie
+  - RecipeBook/Diet/Meat
+Source Book:
+Last edit: 2026-06-9 11:36
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 cup [[White Onion|white onion]], finely chopped
@@ -23,4 +31,3 @@ id: 1762634092358064
 6. Brush the entire top lightly with oil. Using a serrated knife, cut the burek all the way to the bottom into 12 squares.
 7. In a medium bowl, mix the eggs with the yogurt and soda water. Pour over the burek, cover with plastic wrap, and refrigerate for 2 hours.
 8. Preheat the oven to 350F. Remove the plastic wrap, and bake for ~50 minutes, or until golden brown. Cool slightly before serving.
-#RecipeBook/Cuisine/European/Serbian #RecipeBook/Source/TheSpruceEats #RecipeBook/Course/Appetizer #RecipeBook/TypeOfFood/Pie #RecipeBook/Diet/Meat 

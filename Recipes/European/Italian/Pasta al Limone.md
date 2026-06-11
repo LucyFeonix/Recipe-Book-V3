@@ -1,5 +1,13 @@
 ---
-id: 1762634092259087
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Smaakmenutie
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Pasta
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-7 22:26
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 160g [[Pasta|pasta]]
@@ -19,5 +27,5 @@ id: 1762634092259087
 3. Take a frying pan and melt the butter over medium heat. Fruit the garlic for a minute, and lower the heat. Add the lemon zest and keep the heat low until the pasta is done.
 4. Drain the pasta, and add to the molten butter, and mix. Add the lemon juice, and mix. *Add the cooking cream*.
 5. Turn off the heat, and add the parmesan and basil, along with [[Salt|salt]] and [[Black Pepper|pepper]]. 
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Source/Smaakmenutie #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Pasta #RecipeBook/Diet/Vegan #RecipeBook/Diet/Vegetarian 
+
 > [!tip] Preferably serve with a salad or a meat side. It's not that much by itself.

@@ -1,5 +1,13 @@
 ---
-id: 1762634090914266
+tags:
+  - RecipeBook/Cuisine/American/Mexican
+  - RecipeBook/Source/RecipeTinEats
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Taco
+  - RecipeBook/Diet/Meat/Pork
+Source Book:
+Last edit: 2026-06-7 11:31
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 2kg [[Pork Shoulder]]
@@ -24,5 +32,3 @@ id: 1762634090914266
 5. *The following steps are optional if the previous ones were done in the oven.* Heat some oil in a large nonstick pan over high heat. Spread the pork in the pan, drizzle over some of the juices. Wait until the juices evaporate, and the bottom side is golden brown and crusty. Turn and briefly sear the other side.
 6. Remove the pork from the skillet. Repeat in batches - don't crowd the pan.
 7. Just before serving, drizzle over more juices and serve hot, stuffed in tacos.
-
-#RecipeBook/Cuisine/American/Mexican #RecipeBook/Source/RecipeTinEats #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Taco #RecipeBook/Diet/Meat/Pork  

@@ -1,5 +1,13 @@
 ---
-id: 1762634092167100
+tags:
+  - RecipeBook/Cuisine/European/French/Provençal
+  - RecipeBook/Source/LoveAndLemons
+  - RecipeBook/Course/Dip
+  - RecipeBook/TypeOfFood/Dip
+  - RecipeBook/Diet/Vegan
+Source Book:
+Last edit: 2026-06-7 22:16
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 1/2 cups pitted [[Olive|olives]]
@@ -17,4 +25,3 @@ id: 1762634092167100
 ## Food processor
 1.  Combine the ingredients in a small food processor.
 2. Pulse until combined, but still chunky. Add the fresh herbs, and pulse again. The mixture should be smooth, but still a little bit chunky.
-#RecipeBook/Cuisine/European/French/Provençal #RecipeBook/Source/LoveAndLemons #RecipeBook/Course/Dip  #RecipeBook/TypeOfFood/Dip #RecipeBook/Diet/Vegan  

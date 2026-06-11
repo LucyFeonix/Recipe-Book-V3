@@ -1,5 +1,11 @@
 ---
-id: 1762634092000114
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:08
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 3/4 shot [[Cointreau|cointreau]]
@@ -11,5 +17,4 @@ id: 1762634092000114
 - Contains 5.17% ABV
 # Directions
 1. Mix the cointreau and ketel1.
-2. Top up with orange juice.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 
+2. Top up with orange juice. 

@@ -1,5 +1,13 @@
 ---
-id: 1762634091072226
+tags:
+  - RecipeBook/Cuisine/Asian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Rice
+  - RecipeBook/Diet/Meat/Chicken
+Source Book:
+Last edit: 2026-06-7 21:33
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 300 g [[Rice|long grain rice]]
@@ -29,5 +37,3 @@ id: 1762634091072226
 5. Heat the oil in a wok and fry the egg-washed chicken in one layer in ±5 minutes on high. A sort of chicken ‘pancake’ will form, which will need to be turned about halfway. Lower the fire, and add the soy sauce mixture and stir in for two minutes. This will form a sticky sauce.
 6. Cut the spring onion into thin rings, and add to the mixture. 
 7. Serve hot.
-
-#RecipeBook/Cuisine/Asian #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Rice #RecipeBook/Diet/Meat/Chicken 

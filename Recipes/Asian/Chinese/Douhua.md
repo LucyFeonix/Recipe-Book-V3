@@ -1,5 +1,13 @@
 ---
-id: 1762634091127245
+tags:
+  - RecipeBook/Cuisine/Asian/Chinese
+  - RecipeBook/Source/OmnivoresCookbook
+  - RecipeBook/Course/Ingredient
+  - RecipeBook/TypeOfFood/Tofu
+  - RecipeBook/Diet/Meat
+Source Book:
+Last edit: 2026-06-7 11:50
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 325ml [[Soy Milk|soy milk]], cold or room temperature
@@ -13,4 +21,3 @@ id: 1762634091127245
 2. Add the remaining soy milk to a small pot and bring to a boil. Pour over the hydrated gelatin mixture.
 3. Mix with a spoon until the gelatin is completely dissolved.
 4. Cover with a few layers of kitchen paper towels and secure it with a lid or large plate. Transfer to the refrigerator and let rest for at least 4 hours.
-#RecipeBook/Cuisine/Asian/Chinese  #RecipeBook/Source/OmnivoresCookbook #RecipeBook/Course/Ingredient  #RecipeBook/TypeOfFood/Tofu #RecipeBook/Diet/Meat  

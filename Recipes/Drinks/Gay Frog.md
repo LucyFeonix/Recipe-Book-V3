@@ -1,5 +1,11 @@
 ---
-id: 1762634091626176
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:51
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 1/2 shot [[Sour Apple Liqueuer|sour apple liqueur]]
@@ -14,4 +20,3 @@ id: 1762634091626176
 1. Mix the sour apple liqueur, tequila, and lime juice.
 2. Top up with sprite.
 3. *Add a frog candy for garnish.*
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan #RecipeBook/Diet/Vegetarian 

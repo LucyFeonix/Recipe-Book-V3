@@ -1,5 +1,11 @@
 ---
-id: 1762634091676168
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:53
+Created: 2025-11-18 05:27
 ---
 This cocktail was inspired by the two alcohols, which were the only ones present due to the Histos Sailing Competition of 1992. 
 # Ingredients
@@ -11,4 +17,3 @@ This cocktail was inspired by the two alcohols, which were the only ones present
 - Contains 33.35% ABV
 # Directions
 1. Mix the ingredients.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

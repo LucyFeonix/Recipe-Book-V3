@@ -1,5 +1,13 @@
 ---
-id: 1762634091274222
+tags:
+  - RecipeBook/Cuisine/Unknown
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Baking
+  - RecipeBook/TypeOfFood/Cookies
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-10 23:40
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 100 g [[Granulated Sugar|granulated sugar]]

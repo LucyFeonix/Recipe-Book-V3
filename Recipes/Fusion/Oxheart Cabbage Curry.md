@@ -1,5 +1,13 @@
 ---
-id: 1762634092401057
+tags:
+  - RecipeBook/Cuisine/Fusion
+  - RecipeBook/Source/Allerhande
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Curry
+  - RecipeBook/Diet/Vegan
+Source Book:
+Last edit: 2026-06-10 23:38
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 [[Yellow Onion|yellow onion]]
@@ -14,5 +22,3 @@ id: 1762634092401057
 1. Dice the onion. Remove the hard core from the cabbage, and cut into thin strips.
 2. Heat the butter in a pan, and fry the onion and curry powder for 3 minutes. Add the cabbage, and cook for another 10 minutes on medium high heat.
 3. Add [[Salt|salt]] and [[Black Pepper|black pepper]] to taste, and serve hot.
-
-#RecipeBook/Cuisine/Fusion #RecipeBook/Source/Allerhande #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Curry #RecipeBook/Diet/Vegan  

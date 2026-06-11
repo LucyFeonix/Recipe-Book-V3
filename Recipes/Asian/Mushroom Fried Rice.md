@@ -1,5 +1,13 @@
 ---
-id: 1762634091061223
+tags:
+  - RecipeBook/Cuisine/Asian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Stirfry
+  - RecipeBook/Diet/Vegan
+Source Book:
+Last edit: 2026-06-7 21:24
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 12g [[Shiitake Mushrooms|shiitake mushrooms]] (soaked in hot water for 2 hours, or overnight in cold water)
@@ -32,4 +40,3 @@ id: 1762634091061223
 7. Add a little bit more oil, followed by the sliced button and oyster mushrooms. Stir-fry for 1-2 minutes, until the fresh mushrooms are lightly browned and caramelised. Add the remaining shaoxing a rice. Immediately mix to evenly coat the rice.
 10. Add the scrambled egg, and the green part of the scallions, and stir-fry for another 30 seconds.
 11. Serve with [[Chilli Oil|chilli oil]], [[Chilli Flakes|chilli flakes]], or any other garnishing.
-#RecipeBook/Cuisine/Asian #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Rice #RecipeBook/Diet/Vegan  

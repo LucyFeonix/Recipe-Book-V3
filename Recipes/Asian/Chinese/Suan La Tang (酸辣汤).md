@@ -1,14 +1,15 @@
 ---
+aliases:
+  - hot and sour soup
 tags:
-  - RecipeBook/Cuisine/Chinese
+  - RecipeBook/Cuisine/Asian/Chinese
   - RecipeBook/Source/RedHouseSpice
   - RecipeBook/Course/Starter
   - RecipeBook/TypeOfFood/Soup
   - RecipeBook/Diet/Meat/Pork
-Last edit: 2025-11-24 21:48
+Source Book: []
+Last edit: 2026-06-7 21:10
 Created: 2025-11-23 22:35
-aliases:
-  - hot and sour soup
 ---
 # Ingredients
 - 5g [[Shiitake Mushrooms|dried shiitake mushrooms]]

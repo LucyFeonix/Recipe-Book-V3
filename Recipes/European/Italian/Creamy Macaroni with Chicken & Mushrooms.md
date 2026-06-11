@@ -1,5 +1,13 @@
 ---
-id: 1762634092204094
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Pasta
+  - RecipeBook/Diet/Meat/Chicken
+Source Book:
+Last edit: 2026-06-7 22:18
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 300 g [[Pasta|macaroni grande]]
@@ -18,5 +26,3 @@ id: 1762634092204094
 2. Heat the oil in a pan and fry the chicken mince on medium-high heat. Add the [roerbakgroente] and garden peas and heat for 4 minutes.
 3. Add the cream cheese and warm for 2 more minutes.
 4. Add the macaroni and add salt and [[Black Pepper|pepper]] to taste.
-
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Pasta #RecipeBook/Diet/Meat/Chicken  

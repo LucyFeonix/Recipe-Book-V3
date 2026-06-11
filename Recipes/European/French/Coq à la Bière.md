@@ -1,5 +1,13 @@
 ---
-id: 1762634092160101
+tags:
+  - RecipeBook/Cuisine/European/French
+  - RecipeBook/Source/Smaakmenutie
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Chicken
+  - RecipeBook/Diet/Meat/Chicken
+Source Book:
+Last edit: 2026-06-7 22:14
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1.5 kg [[Chicken Leg|chicken legs]]
@@ -22,4 +30,3 @@ id: 1762634092160101
 3. Add the mushrooms and carrot to the bacon. When these are browned, add the shallots and garlic, and mix.
 4. Pour in the beer along with one crumbled chicken stock cube, the bay leaves, and a few sprigs of thyme. Bring to a boil, and add the chicken. Put on a lid, and let simmer on low medium heat for about 90 minutes.
 5. Remove the chicken from the pan and set aside. Remove the thyme sprigs and the bay leaves. Let the remaining liquid simmer on high heat for about 10 minutes to thicken the sauce. Re-add the chicken and make sure the chicken is hot before serving.
-#RecipeBook/Cuisine/European/French #RecipeBook/Source/Smaakmenutie #RecipeBook/Course/Side #RecipeBook/TypeOfFood/Chicken #RecipeBook/Diet/Meat/Chicken 

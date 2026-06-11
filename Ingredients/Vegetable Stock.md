@@ -5,7 +5,9 @@ tags:
   - RecipeBook/Course/Ingredient
   - RecipeBook/TypeOfFood/Stock
   - RecipeBook/Diet/Vegan
-Last edit: 2025-12-26 23:19
+Source Book:
+  - "[[Stardew Valley Cookbook]]"
+Last edit: 2026-06-10 23:47
 Created: 2025-12-26 23:12
 ---
 # Ingredients

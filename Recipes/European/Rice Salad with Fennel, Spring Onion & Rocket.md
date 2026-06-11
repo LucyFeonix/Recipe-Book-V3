@@ -1,5 +1,13 @@
 ---
-id: 1762634092104069
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Salad
+  - RecipeBook/Diet/Vegan
+Source Book:
+Last edit: 2026-06-9 11:38
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 300g [[Rice|rice]]
@@ -22,4 +30,3 @@ id: 1762634092104069
 4. Roughly chop the almonds, cut the spring onion into thin rings and finely chop the parsley.
 5. Mix the fried onion, fennel, rocket, vinegar, spring onion and the remaining oil into one large bowl. 
 6. Sprinkle with almonds and parsley.
-#RecipeBook/Cuisine/European #RecipeBook/Course/Side #RecipeBook/TypeOfFood/Salad #RecipeBook/Diet/Vegetarian 

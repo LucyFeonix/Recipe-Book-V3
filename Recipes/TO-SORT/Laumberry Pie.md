@@ -1,5 +1,14 @@
 ---
-id: 1762634091291220
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Baking
+  - RecipeBook/TypeOfFood/Pie
+  - RecipeBook/Diet/Vegan
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:32
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 2 [[Frozen Piecrusts|frozen piecrusts]]
@@ -27,4 +36,3 @@ id: 1762634091291220
 8. Set the saucepan over medium heat and bhring to a strong simmer, stirring and scraping the pan bottom constantly. Cook until the mixture is thickened and pudding-like (~20 minutes). Remove from the heat, and add the lemon juice and vanilla.
 9. Meanwhile, warm the apple jelly until runny. Drizzle over the reserved blackberries and blueberries, and toss gently to coat. Add the raspberries, and toss very gently to coat and mix with the other berries.
 10. Divide the puree over the pie crusts, and add the glazed berries on top. Chill for 3 hours to a day before serving.
-#RecipeBook/Cuisine/European #RecipeBook/Source/DnD #RecipeBook/Course/Baking #RecipeBook/TypeOfFood/Pie #RecipeBook/Diet/Vegan  

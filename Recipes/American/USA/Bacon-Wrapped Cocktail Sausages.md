@@ -1,5 +1,13 @@
 ---
-id: 1762634090950261
+tags:
+  - RecipeBook/Cuisine/American/USA
+  - RecipeBook/Source/OurBestBites
+  - RecipeBook/Course/Appetizer
+  - RecipeBook/TypeOfFood/Sausage
+  - RecipeBook/Diet/Meat/Pork
+Source Book:
+Last edit: 2026-06-7 11:35
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 14 oz [[Cocktail Sausages|cocktail sausages]]
@@ -13,4 +21,3 @@ id: 1762634090950261
 1. Preheat your oven to 325F, and line a baking sheet with aluminium foil. Using a pair of kitchen shears, cut the slab of bacon into thirds.
 2. Wrap 1/3 of each slice of bacon around each sausage, secure with a toothpick, and place on the baking sheet. Repeat with the remaining sausages and bacon.
 3. Sprinkle brown sugar over sausages and bake at 325 for ±45 minutes, or until the bacon has cooked and is starting to brown.
-#RecipeBook/Cuisine/American/USA  #RecipeBook/Source/OurBestBites #RecipeBook/Course/Appetizer #RecipeBook/TypeOfFood/Sausage #RecipeBook/Diet/Meat/Pork 

@@ -1,5 +1,13 @@
 ---
-id: 1762634092094071
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Rice
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-9 11:37
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 2 medium [[Yellow Onion|yellow onions]]
@@ -22,5 +30,3 @@ id: 1762634092094071
 3. Add the rice, kale, and water, and crumble the stock tablet. Bring to a boil, and simmer (with the lid on the pan) for 15 minutes. Stir regularly.
 4. Meanwhile, dry heat a frying pan and roast the almonds golden brown. Let cool and finely mince.
 5. Sprinkle the rice dish with minced almonds, and add [[Black Pepper|pepper]] to taste.
-
-#RecipeBook/Cuisine/European #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Rice #RecipeBook/Diet/Vegetarian 

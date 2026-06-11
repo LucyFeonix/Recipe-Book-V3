@@ -1,5 +1,13 @@
 ---
-id: 1762634091216236
+tags:
+  - RecipeBook/Cuisine/Japanese
+  - RecipeBook/Source/JustOneCookbook
+  - RecipeBook/Course/Ingredient
+  - RecipeBook/TypeOfFood/Stock
+  - RecipeBook/Diet/Vegan
+Source Book:
+Last edit: 2026-06-7 21:14
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 10g [[Kombu|kombu]]
@@ -17,4 +25,3 @@ id: 1762634091216236
 5. Once the dashi is boiling, reduce the heat, simmer for just 30 seconds, and turn off the heat.
 6. Let the katsuobushi sink to the bottom (~10 minutes)
 7. Strain the dashi through a fine-mesh sieve over a bowl or measuring cup. Reuse the katsuobushi or discard.
-#RecipeBook/Cuisine/Japanese #RecipeBook/Source/JustOneCookbook #RecipeBook/Course/Ingredient #RecipeBook/TypeOfFood/Stock #RecipeBook/Diet/Vegan  

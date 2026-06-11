@@ -1,5 +1,11 @@
 ---
-id: 1762634091831141
+tags:
+  - RecipeBook/Source/KarpeNoktem
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegetarian
+Source Book: []
+Last edit: 2026-06-7 22:01
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Frangelico|frangelico]]
@@ -11,4 +17,3 @@ id: 1762634091831141
 - Contains ?? ABV
 # Directions
 1. Mix the ingredients.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/KarpeNoktem #RecipeBook/Diet/Vegetarian 

@@ -2,7 +2,15 @@
 aliases:
   - Hong Shao Ji
   - 红烧鸡
-id: 1762634091186241
+tags:
+  - RecipeBook/Cuisine/Asian/Chinese
+  - RecipeBook/Source/WoksOfLife
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Chicken
+  - RecipeBook/Diet/Meat/Chicken
+Source Book:
+Last edit: 2026-06-7 21:08
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 900g [[Chicken Thigh Fillet]]
@@ -28,4 +36,3 @@ id: 1762634091186241
 5. Reduce the heat to medium. Add the ginger, shaoxing wine, light soy sauce, dark soy sauce and water. Cover and simmer for 8-10 minutes.
 > [!hint] If there is still a lot of liquid remaining after the 10 minutes, stir continuously until the liquid reduces to a rich sauce.
 6. *Mix in the chopped scallion*, and serve.
-#RecipeBook/Cuisine/Asian/Chinese #RecipeBook/Source/WoksOfLife #RecipeBook/Course/Side #RecipeBook/TypeOfFood/Chicken #RecipeBook/Diet/Meat/Chicken 

@@ -1,5 +1,13 @@
 ---
-id: 1762634092173098
+tags:
+  - RecipeBook/Cuisine/European/French/Provençal
+  - RecipeBook/Source/SeriousEats
+  - RecipeBook/Course/Dip
+  - RecipeBook/TypeOfFood/Dip
+  - RecipeBook/Diet/Pescatarian
+Source Book:
+Last edit: 2026-06-7 22:16
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 2 oz [[Black Olives|black olives]]
@@ -17,4 +25,3 @@ id: 1762634092173098
 # Directions
 1. Roughly chop the olives, capers, and anchovies, add to the mortar with the tuna. *Add the herbs and mustard.*
 2. Tap, crush and smash with the pestle until the ingredients have been reduced to a thick paste. Using the pestle to blend, drizzle just enough olive oil to form a spreadable paste. *Work in the cognac.*
-#RecipeBook/Cuisine/European/French/Provençal #RecipeBook/Source/SeriousEats #RecipeBook/Course/Dip #RecipeBook/TypeOfFood/Dip #RecipeBook/Diet/Pescatarian 

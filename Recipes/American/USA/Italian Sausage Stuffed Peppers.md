@@ -1,5 +1,13 @@
 ---
-id: 1762634091002255
+tags:
+  - RecipeBook/Cuisine/American/USA
+  - RecipeBook/Source/SpicySouthernKitchen
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Pepper
+  - RecipeBook/Diet/Meat/Pork
+Source Book:
+Last edit: 2026-06-7 11:39
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 lb [[Sweet Italian Sausage]], with the casing removed

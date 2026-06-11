@@ -1,5 +1,11 @@
 ---
-id: 1762634091744157
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:57
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Tia Maria|tia maria]]
@@ -13,4 +19,3 @@ id: 1762634091744157
 1. Mix the Tia Maria and Pisang Ambon.
 2. Top up with beer.
 3. *Garnish with a pad, preferably with wings. Yes, that kind.*
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

@@ -1,5 +1,13 @@
 ---
-id: 1762634091250232
+tags:
+  - RecipeBook/Cuisine/Asian/Japanese
+  - RecipeBook/Source/JustOneCookbook
+  - RecipeBook/Course/Ingredient
+  - RecipeBook/TypeOfFood/Stock
+  - RecipeBook/Diet/Vegan
+Source Book:
+Last edit: 2026-06-7 21:18
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 10g [[Kombu|kombu]]
@@ -20,4 +28,3 @@ id: 1762634091250232
 2. Turn the heat to medium low, and slowly bring to a bare simmer, about 10 minutes.
 3. Skim the foam from the surface with a fine-mesh skimmer.
 4. Just before the dashi starts boiling, remove the kombu from the pot. It can (once again) be used still, or discarded.
-#RecipeBook/Cuisine/Asian/Japanese #RecipeBook/Source/JustOneCookbook #RecipeBook/Course/Ingredient #RecipeBook/TypeOfFood/Stock #RecipeBook/Diet/Vegan  

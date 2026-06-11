@@ -1,5 +1,11 @@
 ---
-id: 1762634091397208
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:41
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Blueberry Liqueur|blueberry liqueur]]
@@ -12,4 +18,3 @@ id: 1762634091397208
 # Directions
 1. Mix the blueberry liqueur and passoa.
 2. Top up with banana juice.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

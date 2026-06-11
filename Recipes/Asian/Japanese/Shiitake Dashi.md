@@ -1,5 +1,13 @@
 ---
-id: 1762634091257231
+tags:
+  - RecipeBook/Cuisine/Asian/Japanese
+  - RecipeBook/Source/JustOneCookbook
+  - RecipeBook/Course/Ingredient
+  - RecipeBook/TypeOfFood/Stock
+  - RecipeBook/Diet/Vegan
+Source Book:
+Last edit: 2026-06-7 21:18
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 20g [[Shiitake Mushrooms|dried shiitake mushrooms]]

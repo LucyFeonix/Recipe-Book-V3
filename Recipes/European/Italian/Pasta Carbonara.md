@@ -1,5 +1,13 @@
 ---
-id: 1762634092265082
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Pasta
+  - RecipeBook/Diet/Meat/Pork
+Source Book:
+Last edit: 2026-06-7 22:27
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 250g [[Pasta|pasta]]
@@ -26,5 +34,3 @@ id: 1762634092265082
 3. Cook the pasta according to package instructions. *Add the peas ~3 minutes before the pasta is done.*
 4. Drain and add the pasta *and peas* to the bacon pan. Re-add the bacon and mix all of the above with the sauce *and the mushrooms*.
 5. Serve hot and garnish with the remaining cheese.
-
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Pasta #RecipeBook/Diet/Meat/Pork

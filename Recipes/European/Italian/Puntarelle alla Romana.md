@@ -1,5 +1,13 @@
 ---
-id: 1762634092306078
+tags:
+  - RecipeBook/Cuisine/European/Italian/Rome
+  - RecipeBook/Source/SeriousEats
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Salad
+  - RecipeBook/Diet/Pescatarian
+Source Book:
+Last edit: 2026-06-7 22:32
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 20 oz / 570g [[Puntarelle|puntarelle]] or 8-10 heads [[Belgian Endives|belgian endives]], trimmed
@@ -21,4 +29,3 @@ id: 1762634092306078
 3. Drain, and dry in a salad spinner. 
 4. Place anchovies, garlic, and salt on a cutting board, and mash with the back of a fork until a coarse paste forms. Transfer to a medium bowl. Add the vinegar, and whisk until uniform. Add the oil in a thin stream, whisking constantly, until emulsified.
 5. Add the puntarelle or endive, the parsley, and half of the capers into a salad bowl, and toss to coat with the dressing. Season with salt and [[Black Pepper|pepper]] to taste. 
-#RecipeBook/Cuisine/European/Italian/Rome #RecipeBook/Source/SeriousEats #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Salad #RecipeBook/Diet/Pescatarian 

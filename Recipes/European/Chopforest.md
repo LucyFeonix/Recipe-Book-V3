@@ -1,5 +1,14 @@
 ---
-id: 1762634092077103
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Salad
+  - RecipeBook/Diet/Vegan
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:25
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 lb [[Cabbage|green cabbage]], finely shredded
@@ -26,5 +35,3 @@ id: 1762634092077103
 4. While whisking vigorously, add the olive oil in a slow, steady stream, to combine and emulsify into a dressing.
 5. Add the cabbage, fennel bulb, scallions, and parsley to the bowl and toss to combine. Adjust the seasoning with additional salt and pepper, if necessary.
 6. Sprinkle with fennel fronds before serving.
-
- #RecipeBook/Cuisine/European #RecipeBook/Source/DnD #RecipeBook/Course/Side #RecipeBook/TypeOfFood/Salad #RecipeBook/Diet/Vegan 

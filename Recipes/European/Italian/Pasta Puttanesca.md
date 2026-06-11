@@ -1,5 +1,13 @@
 ---
-id: 1762634092282081
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/SeriousEats
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Pasta
+  - RecipeBook/Diet/Pescatarian
+Source Book:
+Last edit: 2026-06-7 22:29
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 6 tbsp [[Olive Oil|olive oil]]
@@ -24,5 +32,3 @@ id: 1762634092282081
 4. Using tongs, transfer the pasta to the sauce. 
 5. Add a few tablespoons of pasta water to sauce and set over medium-high heat to bring the pasta and sauce to a vigorous simmer. Cook, stirring and shaking the pan to keep the sauce loose, until the pasta is perfectly al dente.
 6. Remove from heat, and add the remaining olive oil, the parsley, and the cheese.  Season with [[Salt|salt]] and [[Black Pepper|pepper]], and serve immediately.
-
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Source/SeriousEats #RecipeBook/Course/Main  #RecipeBook/TypeOfFood/Pasta #RecipeBook/Diet/Pescatarian 

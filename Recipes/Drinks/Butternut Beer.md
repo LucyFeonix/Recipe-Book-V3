@@ -1,5 +1,12 @@
 ---
-id: 1762634091477193
+tags:
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:27
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 45ml [[Rye Whiskey|rye whiskey]] or [[Bourbon|bourbon]]
@@ -18,5 +25,3 @@ id: 1762634091477193
 2. Add the rye/bourbon, schnapps, lemon juice, and bitters. Blend and chill.
 3. Add the seltzer and the cream soda. Blend.
 4. Garnish with a lemon slice, and serve.
-
-#RecipeBook/Source/DnD #RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Diet/Vegan 

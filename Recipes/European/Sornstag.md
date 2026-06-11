@@ -1,6 +1,13 @@
 ---
-id: 1762634092116067
-Last edit: 2026-01-3 20:17
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Stew
+  - RecipeBook/Diet/Meat/Venison
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-9 11:39
 Created: 2025-11-18 05:27
 ---
 # Ingredients
@@ -39,5 +46,3 @@ Created: 2025-11-18 05:27
 12. Partially cover the pan, occasionally stirring and scraping the bottom of the pan, and cook for another ±25 minutes.
 13. Add the remaining parsley, adjust the seasoning as desired, and divide the sornstag.
 14. Sprinkle each bowl with a few of the reserved toasted almonds and some parsley. Serve immediately
-
-#RecipeBook/Cuisine/European #RecipeBook/Source/DnD #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Stew #RecipeBook/Diet/Meat/Venison 

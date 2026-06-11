@@ -1,5 +1,14 @@
 ---
-id: 1762634091326215
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Snack
+  - RecipeBook/TypeOfFood/Sandwich
+  - RecipeBook/Diet/Meat/Pork
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:37
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 3/4 cups [[Flour|all-purpose flour]]
@@ -28,5 +37,3 @@ id: 1762634091326215
 7. Bake the talyth until lightly browned around the edges and on the bottom, ±26 minutes, swapping and rotating the baking sheets halfway through. 
 8. Remove the sheets from the oven and, working quickly, use the underside of a dinner fork to gently press the sausage slices again so they adhere to the dough.
 9. Let cool to room temperature before serving.
-
-#RecipeBook/Cuisine/European #RecipeBook/Source/DnD #RecipeBook/Course/Snack #RecipeBook/TypeOfFood/Sandwich #RecipeBook/Diet/Meat/Pork  

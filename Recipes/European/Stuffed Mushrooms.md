@@ -1,12 +1,19 @@
 ---
-id: 1762634092127066
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Mushrooms
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-9 11:40
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 12 large [[Button Mushrooms|button mushrooms]]
 - 2 [[Shallots|shallots]]
 - 1 clove [[Garlic|garlic]]
 - 4 tbsp [[Olive Oil|olive oil]]
-- 
 - 250g [[Cheese|ricotta cheese]]
 - 7.5g [[Parsley|parsley]]
 - 12.5g [[Chives|chives]]

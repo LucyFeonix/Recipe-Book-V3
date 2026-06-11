@@ -1,5 +1,13 @@
 ---
-id: 1762634092099070
+tags:
+  - RecipeBook/Cuisine/European/Spanish
+  - RecipeBook/Source/SeriousEats
+  - RecipeBook/Course/Snack
+  - RecipeBook/TypeOfFood/Snack
+  - RecipeBook/Diet/Pescatarian
+Source Book:
+Last edit: 2026-06-9 11:37
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 12 slices [[Baguette|baguette]]

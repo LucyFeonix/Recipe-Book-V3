@@ -1,5 +1,13 @@
 ---
-id: 1762634090934264
+tags:
+  - RecipeBook/Cuisine/American/Mexican
+  - RecipeBook/Source/Allerhande
+  - RecipeBook/Course/Sauce
+  - RecipeBook/TypeOfFood/Sauce
+  - RecipeBook/Diet/Vegan
+Source Book:
+Last edit: 2026-06-7 11:34
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 [[Red Pepper|red pepper]]
@@ -19,4 +27,3 @@ id: 1762634090934264
 1. Cut the stem off of the red pepper. Halve it lengthwise, and remove the seeds. Cut up the meat.
 2. Roughly dice the onions, and take the leaves off the fresh oregano.
 3. Put all of the ingredients in a tall cup and blend it until the ingredients are still visible, but the mixture is stil homogenous.
-#RecipeBook/Cuisine/American/Mexican #RecipeBook/Source/Allerande #RecipeBook/Course/Sauce  #RecipeBook/TypeOfFood/Sauce #RecipeBook/Diet/Vegan  

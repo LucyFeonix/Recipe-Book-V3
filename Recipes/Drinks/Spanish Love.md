@@ -1,9 +1,10 @@
 ---
 tags:
-  - RecipeBook/Source
-  - RecipeBook/Course/Drink
-  - RecipeBook/Diet
-Last edit: 2025-12-5 09:45
+  - RecipeBook/Source/Original
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:08
 Created: 2025-12-5 09:43
 ---
 # Ingredients

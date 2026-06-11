@@ -1,5 +1,13 @@
 ---
-id: 1762634090834271
+tags:
+  - RecipeBook/Cuisine/African/Palestinian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Sandwich
+  - RecipeBook/Diet/Meat
+Source Book:
+Last edit: 2026-06-7 21:13
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 500g [[Minced Meat|minced meat]]

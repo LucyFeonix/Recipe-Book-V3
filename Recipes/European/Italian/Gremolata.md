@@ -1,5 +1,13 @@
 ---
-id: 1762634092227091
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/FrancescaKookt
+  - RecipeBook/Course/Sauce
+  - RecipeBook/TypeOfFood/Sauce
+  - RecipeBook/Diet/Vegan
+Source Book:
+Last edit: 2026-06-7 22:20
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 40g [[Parsley|parsley]]
@@ -16,4 +24,3 @@ id: 1762634092227091
 1. Remove the thick stems from the parsley. Roughly chop the remaining stems and leaves.
 2. In a bowl, mix the parsley, lemon zest and juice, the olive oil, and salt to taste.
 3. Mix thoroughly.
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Source/FrancescaKookt #RecipeBook/Course/Sauce #RecipeBook/TypeOfFood/Sauce #RecipeBook/Diet/Vegan  

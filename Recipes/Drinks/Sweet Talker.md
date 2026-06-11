@@ -1,10 +1,10 @@
 ---
-id: 1762634092500276
 tags:
   - RecipeBook/Course/Drink/Alcoholic
   - RecipeBook/Source/Original
   - RecipeBook/Diet/Vegetarian
-Last edit: 2025-11-18 11:29
+Source Book: []
+Last edit: 2026-06-7 22:09
 Created: 2025-11-8 21:36
 ---
 # Ingredients

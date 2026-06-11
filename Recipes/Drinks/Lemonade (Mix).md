@@ -1,5 +1,11 @@
 ---
-id: 1762634091757154
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:57
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/2 shot [[Passoã|passoa]]
@@ -12,4 +18,3 @@ id: 1762634091757154
 # Directions
 1. Mix the passoa and bacardi razz.
 2. Top up with Sprite
-#RecipeBook/Course/Drink  #RecipeBook/Course/Drink/Alcoholic  #RecipeBook/Source/DeBolk  #RecipeBook/Diet/Vegan 

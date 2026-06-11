@@ -1,5 +1,13 @@
 ---
-id: 1762634090921265
+tags:
+  - RecipeBook/Cuisine/American/Mexican
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Enchiladas
+  - RecipeBook/Diet/Meat/Chicken
+Source Book:
+Last edit: 2026-06-7 11:34
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 2 boneless [[Chicken Breast|chicken breasts]]
@@ -32,4 +40,3 @@ id: 1762634090921265
 6. Drench entire pan with 1 cup sauce and sprinkle with crumbled queso fresco.
 7. Bake, covered in oven for 25 to 30 minutes. Remove from oven and serve with sour cream or additional queso fresco, if desired.
 
-#RecipeBook/Cuisine/American/Mexican #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Enchiladas #RecipeBook/Diet/Meat/Chicken  

@@ -1,5 +1,13 @@
 ---
-id: 1762634092377061
+tags:
+  - RecipeBook/Cuisine/Unknown
+  - RecipeBook/Source/SeriousEats
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Pasta
+  - RecipeBook/Diet/Meat
+Source Book:
+Last edit: 2026-06-10 23:35
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 cup [[Bread Crumbs|bread crumbs]]
@@ -32,4 +40,3 @@ id: 1762634092377061
 7. Cook the pasta in salted water according to package directions until just shy of al dente. Drain, reserving one cup of cooking liquid.
 8. Add the mushroom mixture to the pot of pasta, and stir to combine. Add cooking liquid to adjust the consistency - it should be very loose, but not soupy.
 9. Broil in the oven until golden brown.
-#RecipeBook/Cuisine/Unknown #RecipeBook/Source/SeriousEats #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Pasta #RecipeBook/Diet/Meat  

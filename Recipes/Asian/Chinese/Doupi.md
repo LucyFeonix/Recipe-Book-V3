@@ -5,7 +5,8 @@ tags:
   - RecipeBook/Course/Side
   - RecipeBook/TypeOfFood/Snack
   - RecipeBook/Diet/Meat/Pork
-Last edit: 2025-11-18 12:00
+Source Book:
+Last edit: 2026-06-7 21:01
 Created: 2025-11-18 11:36
 ---
 # Ingredients

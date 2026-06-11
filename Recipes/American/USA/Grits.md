@@ -1,5 +1,13 @@
 ---
-id: 1762634090994258
+tags:
+  - RecipeBook/Cuisine/American/USA
+  - RecipeBook/Source/InspiredTaste
+  - RecipeBook/Course/Course/Side
+  - RecipeBook/TypeOfFood/Grits
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-7 11:38
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 cup [[Grits|grits]]
@@ -17,4 +25,3 @@ id: 1762634090994258
 2. When they begin to thicken, reduce the heat to a low simmer. Whisk in the butter, cream, salt, and pepper.
 3. Continue to cook at a very low simmer until thickened, whisking occasionally. Expect around ±20 minutes of simmering.
 
-#RecipeBook/Cuisine/American/USA #RecipeBook/Source/InspiredTaste #RecipeBook/Course/Side #RecipeBook/TypeOfFood/Grits #RecipeBook/Diet/Vegetarian  

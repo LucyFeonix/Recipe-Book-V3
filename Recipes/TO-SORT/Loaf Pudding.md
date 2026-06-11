@@ -1,5 +1,14 @@
 ---
-id: 1762634091297219
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Baking
+  - RecipeBook/TypeOfFood/Bread
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:33
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - **Loaf**
@@ -37,4 +46,3 @@ id: 1762634091297219
 9. In a small saucepan over medium heat, combine the sugar, water, and salt and bring to a steamy simmer, dissolving the sugar. Continue simmering until glossy bubbles develop and the liquid is slightly thickened. Let the syrup cool to room temperature, add the vanilla and almond extract, and swirl to incorporate.
 > [!tip] Using regular [[Simple Syrup|simple syrup]] saves a little bit of time, as you do not have to combine the sugar, water and salt.
 10. While the loaf is still hot, use a long skewer to poke deep holes on its bottom and sides, as well as along both sides of the almonds on top. Brush the syrup over the holes all over the loaf, allowing it to be absorbed. Return the loaf to the rack to cool to room temperature. Slice and serve.
-#RecipeBook/Cuisine/European #RecipeBook/Source/DnD #RecipeBook/Course/Baking #RecipeBook/TypeOfFood/Bread #RecipeBook/Diet/Vegetarian  

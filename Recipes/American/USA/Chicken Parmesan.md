@@ -1,6 +1,12 @@
 ---
-id: 1762634090967260
-Last edit: 2026-01-2 21:46
+tags:
+  - RecipeBook/Cuisine/American/USA
+  - RecipeBook/Source/24Kitchen
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Pasta
+  - RecipeBook/Diet/Meat/Chicken
+Source Book:
+Last edit: 2026-06-7 11:36
 Created: 2025-11-18 05:27
 ---
 # Ingredients
@@ -25,4 +31,3 @@ Created: 2025-11-18 05:27
 4. Stir the parmesan through the pasta until it melts. 
 5. Heat a spoon of oil in a frying pan and fry the chicken on both sides for about 2-3 minutes per side, until they are golden brown. Cut into strips, and divide over the pasta.
 6. Garnish with parsley and extra parmesan.
-#RecipeBook/Cuisine/American/USA #RecipeBook/Source/24Kitchen #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Pasta #RecipeBook/Diet/Meat/Chicken 

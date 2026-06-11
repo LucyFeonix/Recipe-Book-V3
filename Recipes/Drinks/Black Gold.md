@@ -1,5 +1,11 @@
 ---
-id: 1762634091413205
+tags:
+  - RecipeBook/Source/Wikipedia
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:41
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Gold Strike|goldstrike]]
@@ -11,5 +17,3 @@ id: 1762634091413205
 # Directions
 1. Pour the shot of gold strike.
 2. Top up with cola.
-
- #RecipeBook/Source/Wikipedia #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Course/Drink #RecipeBook/Diet/Vegan  

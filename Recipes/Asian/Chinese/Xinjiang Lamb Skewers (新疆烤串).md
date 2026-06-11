@@ -1,11 +1,12 @@
 ---
 tags:
-  - RecipeBook/Cuisine/Chinese
+  - RecipeBook/Cuisine/Asian/Chinese
   - RecipeBook/Source/OmnivoresCookbook
   - RecipeBook/Course/Side
   - RecipeBook/TypeOfFood/Lamb
   - RecipeBook/Diet/Meat/Lamb
-Last edit: 2025-11-20 20:33
+Source Book:
+Last edit: 2026-06-7 21:10
 Created: 2025-11-20 20:20
 ---
 # Ingredients

@@ -1,5 +1,13 @@
 ---
-id: 1762634092149102
+tags:
+  - RecipeBook/Cuisine/European/French
+  - RecipeBook/Source/GoodFood
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Meat
+  - RecipeBook/Diet/Meat/Beef
+Source Book:
+Last edit: 2026-06-7 22:13
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 tbsp [[Olive Oil|olive oil]]
@@ -25,5 +33,3 @@ id: 1762634092149102
 4. Add the steak pieces to the pan, fry for 3-4 minutes until well-coloured.
 5. Tip the onions and mushrooms back into the pan. Mix the crème fraîche, the mustard, and the beef stock into the pan. Cook over a medium heat for around 5 minutes.
 6. Garnish with the parsley, and serve with [[Rice|rice]]. 
-
-#RecipeBook/Cuisine/European/French #RecipeBook/Source/GoodFood #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Meat  #RecipeBook/Diet/Meat/Beef  

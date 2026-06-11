@@ -5,7 +5,9 @@ tags:
   - RecipeBook/Course/Lunch
   - RecipeBook/TypeOfFood/Pudding
   - RecipeBook/Diet/Vegetarian
-Last edit: 2026-01-4 21:24
+Source Book:
+  - "[[Stardew Valley Cookbook]]"
+Last edit: 2026-06-10 23:45
 Created: 2026-01-4 20:55
 ---
 # Ingredients

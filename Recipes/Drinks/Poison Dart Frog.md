@@ -1,5 +1,11 @@
 ---
-id: 1762634091904128
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:04
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/2 shot [[Pisang Ambon|pisang ambon]]
@@ -12,4 +18,3 @@ id: 1762634091904128
 # Directions
 1. Mix the pisang ambon and tia maria.
 2. Top up with ice tea green.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

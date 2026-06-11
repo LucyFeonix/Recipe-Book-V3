@@ -5,7 +5,8 @@ tags:
   - RecipeBook/Course/Side
   - RecipeBook/TypeOfFood/Salad
   - RecipeBook/Diet/Vegan
-Last edit: 2025-12-15 20:05
+Source Book: []
+Last edit: 2026-06-7 21:20
 Created: 2025-11-18 05:27
 ---
 # Ingredients

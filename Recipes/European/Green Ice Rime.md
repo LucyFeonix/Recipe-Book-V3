@@ -1,5 +1,14 @@
 ---
-id: 1762634092082096
+tags:
+  - RecipeBook/Cuisine/Unknown
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Dessert
+  - RecipeBook/TypeOfFood/Dessert
+  - RecipeBook/Diet/Meat/Gelatin
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:25
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/2 tsp [[Oil|oil]]
@@ -20,4 +29,3 @@ id: 1762634092082096
 3. In a medium saucepan over medium heat, warm the remaining milk, the sugar, and the salt, stirring to dissolve the sugar. Remove from the heat, add the gelatin mixture, and whisk until the gelatin dissolves. Let cool for about 10 minutes.
 4. Add the mint extract, vanilla, and food colouring, and stir to incorporate. Pour the mixture into the prepared baking dish and refrigerate until firm. (4 hours to 2 days)
 5. When ready to serve, cut the gelatin into 2-inch squares and transfer to serving dish.
-#RecipeBook/Cuisine/Unknown #RecipeBook/Source/DnD #RecipeBook/Course/Dessert #RecipeBook/TypeOfFood/Dessert #RecipeBook/Diet/Meat/Gelatin  

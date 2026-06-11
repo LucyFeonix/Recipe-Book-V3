@@ -1,5 +1,13 @@
 ---
-id: 1762634092253085
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Pasta
+  - RecipeBook/Diet/Vegan
+Source Book:
+Last edit: 2026-06-7 22:25
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 500g [[Pasta|pasta]]
@@ -18,4 +26,3 @@ id: 1762634092253085
 3. Drain the pasta.
 4. Stir the chilli flakes through the pasta.
 5. Mix the olive oil and garlic mixture into the pasta.
-#RecipeBook/Cuisine/European/Italian  #RecipeBook/Source/Unknown #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Pasta #RecipeBook/Diet/Vegan  

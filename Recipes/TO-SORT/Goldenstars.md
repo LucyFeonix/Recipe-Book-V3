@@ -1,5 +1,14 @@
 ---
-id: 1762634091286221
+tags:
+  - RecipeBook/Cuisine/Unknown
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Snack
+  - RecipeBook/Diet/Meat
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:30
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 ## Dough
@@ -56,5 +65,3 @@ id: 1762634091286221
 4. Repeat steps 2 and 3 until there is no more dough remaining.
 5. Bake the pastries until light golden and the filling is bubbling, ±25 minutes.
 6. Let cool for ±5 minutes, then transfer to wire racks and let cool.
-
-#RecipeBook/Course/Baking #RecipeBook/Source/DnD #RecipeBook/Course/Side #RecipeBook/Course/Snack #RecipeBook/Diet/Meat 

@@ -1,5 +1,13 @@
 ---
-id: 1762634091132246
+tags:
+  - RecipeBook/Cuisine/Asian/Chinese
+  - RecipeBook/Source/WoksOfLife
+  - RecipeBook/Course/Starter
+  - RecipeBook/TypeOfFood/Soup
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-7 21:01
+Created: 2025-11-18 05:27
 ---
   # Ingredients
 - 4 cups [[Chicken Broth]]
@@ -22,4 +30,3 @@ id: 1762634091132246
 > [!warning] Stir continuously while adding the cornstarch slurry. Otherwise, you'll get clumps of it in the soup.
 3. Slowly drizzle in the egg.  Stir it slowly if you want large swirls of egg, or faster for smaller swirls. 
 4. Ladle into bowls and serve, *garnished with scallion*.
-#RecipeBook/Cuisine/Asian/Chinese #RecipeBook/Source/WoksOfLife #RecipeBook/Course/Starter #RecipeBook/TypeOfFood/Soup #RecipeBook/Diet/Vegetarian  

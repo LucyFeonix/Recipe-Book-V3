@@ -1,5 +1,11 @@
 ---
-id: 1762634091888136
+tags:
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:04
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 60ml [[Whiskey|Scotch]]

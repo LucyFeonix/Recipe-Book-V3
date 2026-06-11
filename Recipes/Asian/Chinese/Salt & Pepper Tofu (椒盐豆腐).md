@@ -1,11 +1,11 @@
 ---
 tags:
-  - RecipeBook/Cuisine
-  - RecipeBook/Source
-  - RecipeBook/Course
-  - RecipeBook/TypeOfFood
-  - RecipeBook/Diet
-Last edit: 2025-11-23 22:32
+  - RecipeBook/Cuisine/Asian/Chinese
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Tofu
+  - RecipeBook/Diet/Vegan
+Last edit: 2026-06-7 21:09
 Created: 2025-11-23 22:20
 ---
 # Ingredients

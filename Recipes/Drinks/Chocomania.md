@@ -1,5 +1,11 @@
 ---
-id: 1762634091489194
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegetarian
+Source Book: []
+Last edit: 2026-06-7 21:45
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Piña Colada|piña colada]]
@@ -15,4 +21,3 @@ id: 1762634091489194
 # Directions
 1. Mix the piña colada, rum, passoa, jameson, and bacardi black.
 2. Top up with chocolate milk.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

@@ -1,5 +1,11 @@
 ---
-id: 1762634091957122
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:06
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Apfelkorn|apfelkorn]]
@@ -16,4 +22,3 @@ id: 1762634091957122
 # Directions
 1. Mix the apfelkorn, crème de bananes, hail & thunder, ketel1, passoa, and amaretto.
 2. Top up with sprite.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

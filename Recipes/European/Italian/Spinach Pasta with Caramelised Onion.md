@@ -1,5 +1,13 @@
 ---
-id: 1762634092318075
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Pasta
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-7 22:33
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 3 medium [[Yellow Onion|yellow onions]]
@@ -15,5 +23,3 @@ id: 1762634092318075
 2. Caramelise the onion in 15 minutes and cook the pasta in the meantime.
 3. Drain the pasta, and return to the pan. Add the spinach and most of the cheese. Stir until the cheese is melted. Add [[Salt|salt]] and [[Black Pepper|pepper]] to taste.
 4. Mix in the caramellised onion, or use as garnish. Add the rest of the cheese on top of the servings, and serve hot.
-
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Pasta #RecipeBook/Diet/Vegetarian

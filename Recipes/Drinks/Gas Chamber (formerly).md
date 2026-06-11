@@ -1,5 +1,11 @@
 ---
-id: 1762634091621177
+tags:
+  - RecipeBook/Source/Biton
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:50
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Sambuca|sambuca]]
@@ -18,4 +24,3 @@ id: 1762634091621177
 1. Take the chaser shot.
 2. Take a whiff of the alcohol vapours coming from the main mixture.
 3. Drink the rest.
- #RecipeBook/Source/Biton #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Course/Drink #RecipeBook/Diet/Vegan 

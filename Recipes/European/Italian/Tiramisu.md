@@ -1,5 +1,13 @@
 ---
-id: 1762634092331076
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/RecipesFromItaly
+  - RecipeBook/Course/Dessert
+  - RecipeBook/TypeOfFood/Dessert
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-7 22:36
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 300g [[Savoiardi|savoiardi]]
@@ -25,4 +33,3 @@ id: 1762634092331076
 > [!hint] It is important that the savoiardi does not soak up too much espresso. If they do, they will make the tiramisu much more runny, like a tiramisoup.
 8. *Finally, sprinkle with cocoa powder for decoration. If wanted, [[Chocolate Chips|chocolate chips]] can also be added as decoration.*
 9. Allow to stiffen in the fridge for 3 hours before serving - though, preferably, let it rest overnight.
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Source/RecipesFromItaly #RecipeBook/Course/Dessert #RecipeBook/TypeOfFood/Dessert #RecipeBook/Diet/Vegetarian  

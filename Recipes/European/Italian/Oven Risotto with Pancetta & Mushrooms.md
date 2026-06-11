@@ -1,5 +1,13 @@
 ---
-id: 1762634092247086
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Risotto
+  - RecipeBook/Diet/Meat/Pork
+Source Book:
+Last edit: 2026-06-7 22:24
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 160 g [[Pancetta|pancetta]] / *leave out if making vegetarian*
@@ -23,5 +31,3 @@ id: 1762634092247086
 4. Mix the stock/mushroom mixture and the pancetta mixture in the oven dish, and put in the oven on 180°C for 40 minutes. After 35 minutes, take out of the oven and add the crème fraîche, and put back in the oven for 5 minutes.
 5. Finely slice the parsley. Take the risotto out of the oven, and mix in the cheese and 3/4 of the parsley.
 6. Garnish with the remaining parsley, and serve hot.
-
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Risotto #RecipeBook/Diet/Meat/Pork 

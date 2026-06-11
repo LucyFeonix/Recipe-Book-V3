@@ -1,5 +1,13 @@
 ---
-id: 1762634092347072
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Pasta
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-7 22:38
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 400g [[Chestnut Mushrooms|chestnut mushrooms]]
@@ -25,5 +33,3 @@ id: 1762634092347072
 6. Add the pasta, the crème fraîche, the cooking liquid, half of the parsley and half of the lemon zest.
 7. Add [[Salt|salt]] and [[Black Pepper|pepper]] to taste.
 8. When serving, garnish with the remaining parsley and the rest of the lemon zest. Additionally, you can add lemon slices for garnish.
-
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Pasta #RecipeBook/Diet/Vegetarian 

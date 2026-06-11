@@ -1,5 +1,11 @@
 ---
-id: 1762634091437199
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:42
+Created: 2025-11-18 05:27
 ---
 # Ingredients 
 - 1 shot [[Amaretto|amaretto]]
@@ -12,4 +18,3 @@ id: 1762634091437199
 # Directions
 1. Mix the amaretto and blue curaçao.
 2. Top up with Sprite.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

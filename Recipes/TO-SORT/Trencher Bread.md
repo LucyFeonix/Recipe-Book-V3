@@ -1,5 +1,14 @@
 ---
-id: 1762634091339214
+tags:
+  - RecipeBook/Cuisine/Unknown
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Baking
+  - RecipeBook/TypeOfFood/Bread
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:38
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 3 cups [[Flour|flour]]
@@ -25,4 +34,3 @@ id: 1762634091339214
 7. In a slightly larger pan, warm 2/3 of the oil until hot over medium heat. Carefully place the dough circle in the skillet, and cook undisturbed for 3-4 minutes. Flip, and repeat. 
 8. Transfer to an ovenproof plate, and place in the oven to keep warm. 
 9. Repeat with the remaining rounds, and adjust oil and heat if necessary to avoid burning.
-#RecipeBook/Source/DnD #RecipeBook/Course/Baking #RecipeBook/TypeOfFood/Bread #RecipeBook/Diet/Vegetarian  

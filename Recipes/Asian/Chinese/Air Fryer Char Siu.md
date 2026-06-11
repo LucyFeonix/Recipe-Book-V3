@@ -1,5 +1,13 @@
 ---
-id: 1762634091094252
+tags:
+  - RecipeBook/Cuisine/Asian/Chinese
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Pork
+  - RecipeBook/Diet/Meat/Pork
+Source Book:
+Last edit: 2026-06-7 11:44
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 2 lbs of [[Pork Butt|pork butt]] or [[Pork Shoulder|shoulder]]
@@ -14,5 +22,4 @@ id: 1762634091094252
 1. Place pork butt into a mixing bowl, and incorporate the ginger, garlic, char siu sauce, fie spice powder, white pepper powder, and soy sauce.
 2. Marinate overnight.
 3. Preheat oven to 400F.
-4. Cook for 15 minutes. Check in every 2-3 minutes to flip the pork *and to baste with the honey.*	
-#RecipeBook/Cuisine/Asian #RecipeBook/Course/Side #RecipeBook/Diet/Meat/Pork 
+4. Cook for 15 minutes. Check in every 2-3 minutes to flip the pork *and to baste with the honey.*

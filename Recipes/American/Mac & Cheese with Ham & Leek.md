@@ -1,5 +1,14 @@
 ---
-id: 1762634090889262
+tags:
+  - RecipeBook/Cuisine/American
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Pasta
+  - RecipeBook/Diet/Vegetarian
+  - RecipeBook/Diet/Meat/Pork
+Source Book:
+Last edit: 2026-06-7 11:42
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 50 g [[Butter|unsalted butter]]

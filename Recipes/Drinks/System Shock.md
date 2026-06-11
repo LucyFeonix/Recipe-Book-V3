@@ -1,5 +1,11 @@
 ---
-id: 1762634092012112
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:09
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Tequila|tequila]]
@@ -10,4 +16,3 @@ id: 1762634092012112
 - Contains 5.07% ABV
 # Directions
 1. Add the tequila to the glass and top up with tonic.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan

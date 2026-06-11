@@ -1,5 +1,13 @@
 ---
-id: 1762634091067228
+tags:
+  - RecipeBook/Cuisine/Asian/Indonesian
+  - RecipeBook/Source/Smaakmenutie
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Soup
+  - RecipeBook/Diet/Meat/Chicken
+Source Book:
+Last edit: 2026-06-7 21:27
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 500g [[Chicken Breast|chicken breast]]

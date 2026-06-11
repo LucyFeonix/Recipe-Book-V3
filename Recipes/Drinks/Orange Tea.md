@@ -1,5 +1,11 @@
 ---
-id: 1762634091877134
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Non-Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:03
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Orange|orange juice]]
@@ -12,4 +18,3 @@ id: 1762634091877134
 # Directions
 1. Mix the orange juice and monin grenadine.
 2. Top up with ice tea green.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Non-Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

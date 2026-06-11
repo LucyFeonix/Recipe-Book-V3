@@ -1,5 +1,11 @@
 ---
-id: 1762634092066104
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Non-Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:11
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot water

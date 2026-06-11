@@ -3,13 +3,14 @@ tags:
   - RecipeBook/Source
   - RecipeBook/Course/Drink
   - RecipeBook/Diet
-Last edit: 2025-12-12 21:06
-Created: 2025-12-12 21:05
+Source Book: []
+Last edit: 2026-06-10 23:44
+Created: 2026-05-31 14:20
 ---
+- 5 shots of vodka
+- fruit juice
 # Ingredients
-- 1 shot [[Apfelkorn]]
-- slagroom
-- kaneel daarbovenop
+- X
 # Notes
 - X servings
 - Requirements:

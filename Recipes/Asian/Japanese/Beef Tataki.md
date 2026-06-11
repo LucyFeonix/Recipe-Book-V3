@@ -1,5 +1,13 @@
 ---
-id: 1762634091222235
+tags:
+  - RecipeBook/Cuisine/Asian/Japanese
+  - RecipeBook/Source/ClaudNine
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Snack
+  - RecipeBook/Diet/Meat/Beef
+Source Book:
+Last edit: 2026-06-7 21:15
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 tbsp [[Sunflower Oil|sunflower oil]]

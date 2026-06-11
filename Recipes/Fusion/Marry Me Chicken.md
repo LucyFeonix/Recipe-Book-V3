@@ -5,7 +5,8 @@ tags:
   - RecipeBook/Course/Side
   - RecipeBook/TypeOfFood/Chicken
   - RecipeBook/Diet/Meat/Chicken
-Last edit: 2025-11-21 02:14
+Source Book: []
+Last edit: 2026-06-10 23:37
 Created: 2025-11-20 20:44
 ---
 # Ingredients

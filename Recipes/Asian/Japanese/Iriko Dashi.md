@@ -1,5 +1,13 @@
 ---
-id: 1762634091234234
+tags:
+  - RecipeBook/Cuisine/Asian/Japanese
+  - RecipeBook/Source/JustOneCookbook
+  - RecipeBook/Course/Ingredient
+  - RecipeBook/TypeOfFood/Stock
+  - RecipeBook/Diet/Pescatarian
+Source Book:
+Last edit: 2026-06-7 21:16
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 20g [[Iriko|iriko]] or [[Niboshi|niboshi]]
@@ -14,4 +22,3 @@ id: 1762634091234234
 3. Transfer to a saucepan, and slowly bring the water to a boil.
 4. When boiling, skim, and reduce heat to low. Cook for 8-10 minutes.
 5. Remove from heat and drain over a bowl or measuring cup. The anchovies can be used to make [[Tazukuri|tazukuri]].
-#RecipeBook/Cuisine/Asian/Japanese #RecipeBook/Source/JustOneCookbook #RecipeBook/Course/Ingredient #RecipeBook/TypeOfFood/Stock #RecipeBook/Diet/Pescatarian 

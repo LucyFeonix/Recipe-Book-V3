@@ -1,5 +1,14 @@
 ---
-id: 1762634090793213
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Soup
+  - RecipeBook/Diet/Meat/Pork
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:27
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 2 lbs [[Pork Butt|pork butt]]
@@ -30,5 +39,3 @@ id: 1762634090793213
 7. Remove the soup from heat and let rest for about 30 minutes for the flavours to meld. Remove the bay leaves (if you can find them).
 8. Transfer about 3/4 cup of the soup, including some potato cubes, to a blender. Add the remaining chestnuts, and  lend as smooth as possible. Scrape the puree into the pot, add the vinegar and parsley, and stir to incorporate. 
 9. Serve, garnishing with the remaining parsley. 
-
-#RecipeBook/Cuisine/European #RecipeBook/Source/DnD #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Soup #RecipeBook/Diet/Meat/Pork  

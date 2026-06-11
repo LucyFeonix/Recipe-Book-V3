@@ -5,7 +5,9 @@ tags:
   - RecipeBook/Course/Main
   - RecipeBook/TypeOfFood/Soup
   - RecipeBook/Diet/Pescatarian
-Last edit: 2026-01-1 16:55
+Source Book:
+  - "[[Stardew Valley Cookbook]]"
+Last edit: 2026-06-10 23:41
 Created: 2026-01-1 16:37
 ---
 # Ingredients

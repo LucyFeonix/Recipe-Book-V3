@@ -1,5 +1,13 @@
 ---
-id: 1762634091139244
+tags:
+  - RecipeBook/Cuisine/Asian/Chinese
+  - RecipeBook/Source/HealthyNibblesAndBits
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Beans
+  - RecipeBook/Diet/Vegan
+Source Book:
+Last edit: 2026-06-7 21:02
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 lb [[Green Beans|green beans]]
@@ -18,5 +26,3 @@ id: 1762634091139244
 4. Carefully pour the hot frying oil into a bowl. Use the residual oil to fry the garlic.
 5. Heat the wok over medium-high heat. Add the minced garlic, and cook it for about 30 seconds. Add the green beans back to the wok, along with the salt, and stir to combine.
 6. Turn off the heat, and garnish with red pepper flakes. Serve hot.
-
-#RecipeBook/Cuisine/Asian/Chinese  #RecipeBook/Source/HealthyNibblesAndBits #RecipeBook/Course/Side #RecipeBook/TypeOfFood/Beans #RecipeBook/Diet/Vegan  

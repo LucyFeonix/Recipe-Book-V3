@@ -1,5 +1,13 @@
 ---
-id: 1762634091262230
+tags:
+  - RecipeBook/Cuisine/Asian/Japanese
+  - RecipeBook/Source/JustOneCookbook
+  - RecipeBook/Course/Ingredient
+  - RecipeBook/TypeOfFood/Stock
+  - RecipeBook/Diet/Vegan
+Source Book:
+Last edit: 2026-06-7 21:20
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 10g [[Kombu|kombu]]
@@ -15,4 +23,3 @@ id: 1762634091262230
 3. Transfer to a medium saucepan. Turn the heat to medium low, and slowly bring to a bare simmer, ~10 minutes. Skim any foam and debris with a fine-mesh skimmer.
 4. Just before the dashi starts boiling, remove the kombu and shiitake from the pot. Then, turn off the heat.
 5. When transferring to a storage container or use, use a fine-mesh sieve to catch any debris.
-#RecipeBook/Cuisine/Asian/Japanese #RecipeBook/Source/JustOneCookbook #RecipeBook/Course/Ingredient #RecipeBook/TypeOfFood/Stock #RecipeBook/Diet/Vegan  

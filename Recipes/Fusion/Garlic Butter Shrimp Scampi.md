@@ -1,5 +1,13 @@
 ---
-id: 1762634090805049
+tags:
+  - RecipeBook/Cuisine/Unknown
+  - RecipeBook/Source/DamnDelicious
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Shrimp
+  - RecipeBook/Diet/Pescatarian
+Source Book:
+Last edit: 2026-06-10 23:37
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/2 cup [[Unsalted Butter|unsalted butter]]
@@ -19,4 +27,3 @@ id: 1762634090805049
 2. Add shrimp; season with [[Salt|salt]] and [[Black Pepper|pepper]], to taste. Cook, stirring occasionally, until pink and cooked through (±4 minutes)
 3. Stir in parsley, lemon juice, and lemon zest.
 4. Serve immediately. 
-#RecipeBook/Cuisine #RecipeBook/Source/DamnDelicious #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Shrimp #RecipeBook/Diet/Pescatarian  

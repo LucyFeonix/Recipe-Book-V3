@@ -1,5 +1,11 @@
 ---
-id: 1762634092034106
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:09
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/2 shot [[Grand Marnier|grand marnier]]
@@ -12,4 +18,3 @@ id: 1762634092034106
 # Directions
 1. Mix the grand marnier and stroh-80.
 2. Add a couple of drops of tabasco.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

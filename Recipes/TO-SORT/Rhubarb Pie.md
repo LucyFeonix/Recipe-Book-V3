@@ -5,7 +5,9 @@ tags:
   - RecipeBook/Course/Dessert
   - RecipeBook/TypeOfFood/Pie
   - RecipeBook/Diet/Vegetarian
-Last edit: 2026-02-7 00:23
+Source Book:
+  - "[[Stardew Valley Cookbook]]"
+Last edit: 2026-06-10 23:45
 Created: 2026-02-6 23:43
 ---
 # Ingredients

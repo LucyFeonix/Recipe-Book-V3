@@ -5,7 +5,8 @@ tags:
   - RecipeBook/Course
   - RecipeBook/TypeOfFood
   - RecipeBook/Diet
-Last edit: 2026-01-1 18:46
+Source Book: []
+Last edit: 2026-06-10 23:44
 Created: 2026-01-1 17:35
 ---
 # Ingredients

@@ -1,5 +1,13 @@
 ---
-id: 1762634092271084
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Smaakmenutie
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Pasta
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-7 22:28
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 250g [[Cherry Tomatoes|cherry tomatoes]]
@@ -26,4 +34,3 @@ id: 1762634092271084
 4. While doing this, cook the pasta al dente according to package instructions.
 5. Drain the pasta, and mix with the pesto and spinach. Add this mixture to the oven dish, mixing it with the tomatoes, and add the bacon and mozzarella. Place back into the oven for ±15 minutes.
 6. Serve hot, optionally garnished with [[Sweet Basil|basil]] and more pepper.
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Source/Smaakmenutie #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Pasta #RecipeBook/Diet/Vegetarian #RecipeBook/Diet/Meat/Pork 

@@ -1,5 +1,11 @@
 ---
-id: 1762634091532190
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:47
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Hail & Thunder|hail & thunder]]
@@ -12,4 +18,3 @@ id: 1762634091532190
 1. Pour the hail & thunder into the shot glass.
 2. Fill the longdrink glass with ginger ale, but not to the top.
 3. Drop the shot glass into the longdrink glass.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

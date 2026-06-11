@@ -1,5 +1,14 @@
 ---
-id: 1762634090800050
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Snack
+  - RecipeBook/TypeOfFood/Pastry
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:28
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 1/2 lbs [[Potato|potatoes]], peeled and cut into 1” chunks
@@ -24,4 +33,3 @@ id: 1762634090800050
 5. Scrape the potato mixture into a piping bag fitted with a 1/2” star tip. Hold the filled pastry bag slightly above the prepared baking sheet and apply steady, gentle, downward pressure to pipe a mound roughly 2” inches diameter and height. Work your way out in a tight circular motion, and then back in again to build height. Pipe twenty mounds total, with about 1” between them. Lightly coat the mounds in cooking spray.
 6. Bake hte cloaks until golden brown (±14 minutes), rotating the baking sheet about halfway through. Let cool on the baking sheet for 2 minutes, then transfer to a serving platter.
 7. Serve hot.
-#RecipeBook/Cuisine/European #RecipeBook/Source/DnD #RecipeBook/Course/Snack #RecipeBook/TypeOfFood/Pastry #RecipeBook/Diet/Vegetarian  

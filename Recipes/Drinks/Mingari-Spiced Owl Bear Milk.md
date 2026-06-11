@@ -1,5 +1,12 @@
 ---
-id: 1762634091820147
+tags:
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Drink/Non-Alcoholic
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:32
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/2 cup [[Oats|oats]]
@@ -22,5 +29,3 @@ id: 1762634091820147
 6. Remove the mixture from the fridge. Remove the cinnamon sticks, and into a blender on high speed until as uniform and smooth as possible.
 7. Strain through a fine-mesh strainer back into the jar. Return the cinnamon sticks into the jar, and refrigerate for about an hour.
 8. Take out of fridge and vigorously shake. Pour into glasses over [[Ice|ice]], and sprinkle with [[Cinnamon|ground cinnamon]] before serving.
-
-#RecipeBook/Source/DnD #RecipeBook/Course/Drink #RecipeBook/Course/Drink/Non-Alcoholic #RecipeBook/Diet/Vegetarian 

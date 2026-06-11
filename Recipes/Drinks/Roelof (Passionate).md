@@ -1,5 +1,11 @@
 ---
-id: 1762634091968120
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:07
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 2 shots [[Passoã|passoa]]
@@ -10,4 +16,3 @@ id: 1762634091968120
 - Contains 2.91% ABV
 # Directions
 1. Mix the ingredients.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

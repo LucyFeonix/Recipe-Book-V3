@@ -1,5 +1,13 @@
 ---
-id: 1762634091157238
+tags:
+  - RecipeBook/Cuisine/Asian/Chinese/Sichuan
+  - RecipeBook/Source/WoksOfLife
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Tofu
+  - RecipeBook/Diet/Meat/Pork
+Source Book:
+Last edit: 2026-06-7 21:05
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/2 cup [[Oil|oil]]
@@ -29,4 +37,3 @@ id: 1762634091157238
 4. Combine the water and corn starch in a bowl. Add to the sauce, and stir. Let it bubble away until the sauce starts to thicken.====
 5. Add the chilli oil. Stir into the sauce, and add the tofu. Gently toss the tofu in the sauce, and cook for 3-5 minutes.
 6. Add the sesame oil and sugar, along with the scallions.
-#RecipeBook/Cuisine/Asian/Chinese/Sichuan #RecipeBook/Source/WoksOfLife #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Tofu #RecipeBook/Diet/Meat/Pork  

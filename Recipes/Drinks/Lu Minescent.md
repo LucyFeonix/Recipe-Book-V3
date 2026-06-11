@@ -1,5 +1,11 @@
 ---
-id: 1762634091776148
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:58
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/2 shot [[Kontiki|kontiki]]
@@ -12,4 +18,3 @@ id: 1762634091776148
 # Directions
 1. Mix the kontiki and the safari.
 2. Top up with orange juice.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

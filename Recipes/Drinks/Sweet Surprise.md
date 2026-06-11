@@ -1,5 +1,11 @@
 ---
-id: 1762634092007111
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegetarian
+Source Book: []
+Last edit: 2026-06-7 22:08
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Tia Maria]]
@@ -13,4 +19,3 @@ id: 1762634092007111
 # Directions
 1. Mix the tia maria, amaretto, and cognac.
 2. Top up with chocolate milk.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegetarian 

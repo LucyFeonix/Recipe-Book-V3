@@ -1,5 +1,13 @@
 ---
-id: 1762634092212093
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Gnocchi
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-7 22:19
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 4 tbsp [[Olive Oil|olive oil]]
@@ -23,5 +31,3 @@ id: 1762634092212093
 6. Serve hot.
 
 > [!tip] For a spicy kick, you can also add chilli flakes as extra garnishing.
-
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Gnocchi #RecipeBook/Diet/Vegetarian  

@@ -1,5 +1,11 @@
 ---
-id: 1762634091600172
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:50
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Frangelico|frangelico]]
@@ -12,4 +18,3 @@ id: 1762634091600172
 # Directions
 1. Mix the frangelico and the vodka.
 2. Top up with cola.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan

@@ -1,5 +1,13 @@
 ---
-id: 1762634091114248
+tags:
+  - RecipeBook/Cuisine/Asian/Chinese
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Pudding
+  - RecipeBook/Diet/Meat
+Source Book:
+Last edit: 2026-06-7 11:49
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 10g [[Dried Lily Buds|dried lily buds]]

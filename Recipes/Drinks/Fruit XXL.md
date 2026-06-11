@@ -1,5 +1,11 @@
 ---
-id: 1762634091587178
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:49
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Safari|safari]]
@@ -13,4 +19,3 @@ id: 1762634091587178
 # Directions
 1. Mix the safari, kontiki, and bacardi lemon.
 2. Top up with apple juice.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

@@ -1,5 +1,15 @@
 ---
-id: 1762634090928263
+tags:
+  - RecipeBook/Cuisine/American/Mexican
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Chilli
+  - RecipeBook/Diet/Meat
+  - RecipeBook/Diet/Vegan
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-7 11:34
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 4 [[Ancho Chilli Pepper|dried ancho chiles]]
@@ -31,4 +41,3 @@ id: 1762634090928263
 7. Bring to a slow boil, then reduce the heat to low. Cover and simmer for about an hour.
 8. Stir in lime juice and cornstarch slurry. Cook for a few minutes until the sauce has thickened.
 9. Serve with [[Tortilla|tortillas]] for dipping, and a side of [[Rice|mexican rice]] and [[Beans|beans]].
- #RecipeBook/Cuisine/American/Mexican #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Chilli #RecipeBook/Diet/Meat #RecipeBook/Diet/Vegetarian #RecipeBook/Diet/Vegan 

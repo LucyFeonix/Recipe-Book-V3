@@ -1,5 +1,14 @@
 ---
-id: 1762634092088095
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Crab
+  - RecipeBook/Diet/Pescatarian
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:25
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 6 oz high-quality [[Crab Meat|crabmeat]], drained
@@ -20,5 +29,3 @@ id: 1762634092088095
 3. Add the crème fraiche, lemon zest, the remaining 1/4 tsp salt, and most of the chives, and more pepper, and stir gently to mix.
 4. Scoop about 1 tablespoon of the crab mixture into each of sixteen endive leaves, arrange them on a platter, and sprinkle with the remaining chives.
 5. Serve immediately.
-
- #RecipeBook/Cuisine/European #RecipeBook/Source/DnD #RecipeBook/Course/Side #RecipeBook/TypeOfFood/Crab #RecipeBook/Diet/Pescatarian

@@ -1,5 +1,13 @@
 ---
-id: 1762634092242088
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Risotto
+  - RecipeBook/Diet/Meat/Pork
+Source Book:
+Last edit: 2026-06-7 22:21
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 200g [[Bacon|bacon bits]]
@@ -19,5 +27,3 @@ id: 1762634092242088
 4. Add the rice, and cook for 2 minutes until the grains turn glassier.
 5. Move the current mixture to an oven dish, and add all of the vegetable stock. Put in the oven for 35 minutes.
 6. Add the garden peas and crème fraîche to the risotto, and put back in the oven for five more minutes. Add [[Black Pepper|pepper]] to taste.
-
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Risotto #RecipeBook/Diet/Meat/Pork 

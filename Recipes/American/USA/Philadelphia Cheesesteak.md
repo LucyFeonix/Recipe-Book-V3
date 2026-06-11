@@ -1,5 +1,13 @@
 ---
-id: 1762634091017253
+tags:
+  - RecipeBook/Cuisine/American/USA
+  - RecipeBook/Source/NatashasKitchen
+  - RecipeBook/Course/Lunch
+  - RecipeBook/TypeOfFood/Sandwich
+  - RecipeBook/Diet/Meat/Beef
+Source Book:
+Last edit: 2026-06-7 11:40
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 lb [[Ribeye Steak|ribeye steak]], trimmed and thinly sliced
@@ -22,4 +30,3 @@ id: 1762634091017253
 4. Increase to high heat, and add 1 tbsp oil. Spread the super thinly sliced steak in an even layer. Let brown for a couple of minutes, undisturbed. Then flip and season with salt and pepper. Stir in the caramelised onions.
 5. Divide into even portions, and top each with 2 slices of cheese. Turn off the heat so the cheese will melt without overcooking the meat.
 6. Spread a thin layer of mayonnaise on the toasted side of each roll. Working with one portion at a time, place a toasted bun over each portion, and use a spatula to scrape the cheesy beef into your bun as you flip it over.
-#RecipeBook/Cuisine/American/USA  #RecipeBook/Source/NatashasKitchen #RecipeBook/Course/Lunch #RecipeBook/TypeOfFood/Sandwich #RecipeBook/Diet/Meat/Beef  

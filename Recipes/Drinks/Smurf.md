@@ -1,5 +1,11 @@
 ---
-id: 1762634091990116
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:07
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/2 shot [[Blue Curaçao|blue curaçao]]
@@ -13,4 +19,3 @@ id: 1762634091990116
 # Directions
 1. Mix the blue curaçao, sambuca, and piña colada.
 2. Top up with sprite.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

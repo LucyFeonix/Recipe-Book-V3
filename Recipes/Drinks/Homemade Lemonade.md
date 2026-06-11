@@ -1,5 +1,11 @@
 ---
-id: 1762634091681165
+tags:
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Drink/Non-Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:54
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 350g [[Sugar|granulated sugar]]
@@ -15,4 +21,3 @@ id: 1762634091681165
 1. Combine the 350g sugar and 250ml water in a saucepan. Stir to dissolve sugar while the mixture comes to a boil. Set aside, cool slightly.
 2. Cut the lemons in half crosswise, and squeeze into a measuring cup. Add the pulp, but remove the seeds. Continue juicing until you have 375ml fresh juice/pulp.
 3. Pour 1700ml of ice cold water into a pitcher. Stir in the lemon juice and pulp, and add simple syrup to taste. To cool, add ice.
-#RecipeBook/Course/Drink #RecipeBook/Diet/Vegan #RecipeBook/Course/Drink/Non-Alcoholic 

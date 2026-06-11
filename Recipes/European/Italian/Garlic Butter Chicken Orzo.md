@@ -1,7 +1,15 @@
 ---
-id: 1762634092222090
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Orzo
+  - RecipeBook/Diet/Meat/Chicken
+Source Book:
+Last edit: 2026-06-7 22:20
+Created: 2025-11-18 05:27
 ---
-	# Ingredients
+# Ingredients
 - 600g [[Chicken Thigh Fillet|chicken thigh fillet]]
 - 3/4 tsp [[Paprika|paprika]]
 - 1/2 tsp [[Salt|salt]]
@@ -27,5 +35,3 @@ id: 1762634092222090
 4. Bring to a simmer and cook until the orzo is al dente and wrapped in a glossy sauce, stirring occasionally. Meanwhile, dice the parsley and chives, and grate the parmesan.
 5. Once the orzo is cooked, stir in the parmesan, parsley, and the resting juices from the chicken. Finally, stir in the final tablespoon of butter. 
 6. Serve with [[Chive Butter|chive butter]] and half a [[Lemon|lemon]] as optional garnish.
-
-#RecipeBook/Cuisine/European #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Orzo #RecipeBook/Diet/Meat/Chicken  

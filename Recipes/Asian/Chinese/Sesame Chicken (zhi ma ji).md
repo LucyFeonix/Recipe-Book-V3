@@ -1,11 +1,11 @@
 ---
 tags:
-  - RecipeBook/Cuisine/Chinese
+  - RecipeBook/Cuisine/Asian/Chinese
   - RecipeBook/Source/MyDreamCookbook
   - RecipeBook/Course/Main
   - RecipeBook/TypeOfFood/Meat
   - RecipeBook/Diet/Meat/Chicken
-Last edit: 2025-11-30 21:43
+Last edit: 2026-06-7 21:09
 Created: 2025-11-30 21:35
 ---
 # Ingredients

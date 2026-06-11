@@ -1,5 +1,11 @@
 ---
-id: 1762634091695163
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegetarian
+Source Book: []
+Last edit: 2026-06-7 21:55
+Created: 2025-11-18 05:27
 ---
 deze is lekker
 # Ingredients
@@ -12,4 +18,3 @@ deze is lekker
 - Contains 30.32% ABV
 # Directions
 1. Mix the ingredients.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegetarian 

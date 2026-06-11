@@ -1,5 +1,13 @@
 ---
-id: 1762634092371063
+tags:
+  - RecipeBook/Cuisine/Fusion
+  - RecipeBook/Source/Tiktok
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Wrap
+  - RecipeBook/Diet/Meat
+Source Book:
+Last edit: 2026-06-10 23:32
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 500g [[Minced Meat|minced meat]]
@@ -16,4 +24,3 @@ id: 1762634092371063
 1. Brown the ground beef in a skillet, fry the bacon, and drain the fat.
 2. Combine the beef, bacon bits, cooked macaroni, and cheddar cheese.
 3. Place the combined filling onto the tortillas. *Add lettuce if desired*
-#RecipeBook/Cuisine/Fusion #RecipeBook/Source/Tiktok #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Wrap #RecipeBook/Diet/Meat  

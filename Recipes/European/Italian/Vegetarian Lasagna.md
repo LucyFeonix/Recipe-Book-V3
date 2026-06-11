@@ -1,5 +1,13 @@
 ---
-id: 1762634092340073
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Lasagna
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-7 22:37
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 2 tbsp [[Olive Oil|olive oil]]
@@ -21,5 +29,3 @@ id: 1762634092340073
 5. Put a scoop of sauce (the mixture from the previous steps) on the bottom of the oven dish, and then proceed to layer with lasagna sheets and sauce.
 6. On top of the lasagna, add the cheese.
 7. Put in the oven for 30 minutes.
-
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Lasagna #RecipeBook/Diet/Vegetarian 

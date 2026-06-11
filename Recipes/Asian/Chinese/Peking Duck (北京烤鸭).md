@@ -5,7 +5,8 @@ tags:
   - RecipeBook/Course/Main
   - RecipeBook/TypeOfFood/Meat
   - RecipeBook/Diet/Meat/Duck
-Last edit: 2025-12-1 00:40
+Source Book: []
+Last edit: 2026-06-7 21:11
 Created: 2025-12-1 00:26
 ---
 # Ingredients

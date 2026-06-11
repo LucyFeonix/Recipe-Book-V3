@@ -1,5 +1,13 @@
 ---
-id: 1762634091180242
+tags:
+  - RecipeBook/Cuisine/Asian/Chinese
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Noodles
+  - RecipeBook/Diet/Vegan
+Source Book:
+Last edit: 2026-06-7 21:07
+Created: 2025-11-18 05:27
 ---
  # Ingredients
 - 3 tbsp [[Tahini|sesame paste / tahini]]
@@ -30,4 +38,3 @@ id: 1762634091180242
 2. Drain and toss with the remaining oil to prevent sticking.
 3. Add *zha cai*, *suan dou jiou*, garlic, chilli oil, cilantro, scallions, vinegar and the sauce.
 4. Serve hot.
-#RecipeBook/Cuisine/Asian/Chinese #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Noodles #RecipeBook/Diet/Vegan  

@@ -1,5 +1,13 @@
 ---
-id: 1762634092187099
+tags:
+  - RecipeBook/Cuisine/European/French
+  - RecipeBook/Source/Allerhande
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Meat
+  - RecipeBook/Diet/Meat/Beef
+Source Book:
+Last edit: 2026-06-7 22:17
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 4 tbsp [[Cognac|cognac]]
@@ -19,4 +27,3 @@ id: 1762634092187099
 4. Take the meat out of the pan, and wrap in aluminium foil. Throw away the frying liquids.
 5. Add the cognac to the pan. Add the crème fraîche, and warm up for a little bit. 
 6. Turn the heat off, and mix in the remaining butter. 
-#RecipeBook/Cuisine/European/French #RecipeBook/Source/Allerhande #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Meat #RecipeBook/Diet/Meat/Beef 

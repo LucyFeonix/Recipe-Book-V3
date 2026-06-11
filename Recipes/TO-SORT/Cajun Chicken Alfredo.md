@@ -5,7 +5,8 @@ tags:
   - RecipeBook/Course/Main
   - RecipeBook/TypeOfFood/Pasta
   - RecipeBook/Diet/Meat/Chicken
-Last edit: 2026-03-15 22:20
+Source Book: []
+Last edit: 2026-06-10 23:39
 Created: 2026-03-15 22:09
 ---
 # Ingredients

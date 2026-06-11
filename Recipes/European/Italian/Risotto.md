@@ -1,11 +1,11 @@
 ---
 tags:
-  - RecipeBook/Cuisine/Italian
+  - RecipeBook/Cuisine/European/Italian
   - RecipeBook/Source/Allerhande
   - RecipeBook/Course/Main
   - RecipeBook/TypeOfFood/Risotto
   - RecipeBook/Diet/Vegetarian
-Last edit: 2026-02-3 22:20
+Last edit: 2026-06-7 22:32
 Created: 2026-02-3 22:13
 ---
 # Ingredients

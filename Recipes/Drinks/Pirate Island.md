@@ -1,5 +1,11 @@
 ---
-id: 1762634091893130
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:04
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/3 shot [[Spiced Rum|spiced rum]]
@@ -11,4 +17,3 @@ id: 1762634091893130
 - Contains 26.3% ABV
 # Directions
 1. Mix the ingredients.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

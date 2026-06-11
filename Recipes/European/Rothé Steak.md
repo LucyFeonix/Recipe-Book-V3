@@ -1,6 +1,13 @@
 ---
-id: 1762634092111068
-Last edit: 2026-01-3 20:16
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Steak
+  - RecipeBook/Diet/Meat/Beef
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:34
 Created: 2025-11-18 05:27
 ---
 # Ingredients
@@ -23,5 +30,3 @@ Created: 2025-11-18 05:27
 6. Continue until an instant-read meat thermometer reaches 120F (medium rare) or 130F (medium).
 7. Transfer the steak to a cutting board and let rest for 10 minutes, preferably loosely covered in aluminium foil. 
 8. Slice before serving, and serve warm.
-
-#RecipeBook/Cuisine/European #RecipeBook/Source/DnD #RecipeBook/Course/Side #RecipeBook/TypeOfFood/Steak #RecipeBook/Diet/Meat/Beef 

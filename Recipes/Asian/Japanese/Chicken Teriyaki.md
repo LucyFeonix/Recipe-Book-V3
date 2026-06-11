@@ -1,11 +1,12 @@
 ---
 tags:
-  - RecipeBook/Cuisine/Japanese
+  - RecipeBook/Cuisine/Asian/Japanese
   - RecipeBook/Source/JustOneCookbook
   - RecipeBook/Course/Main
   - RecipeBook/TypeOfFood/Meat
   - RecipeBook/Diet/Meat/Chicken
-Last edit: 2025-12-7 15:50
+Source Book: []
+Last edit: 2026-06-7 21:15
 Created: 2025-12-7 15:42
 ---
 # Ingredients

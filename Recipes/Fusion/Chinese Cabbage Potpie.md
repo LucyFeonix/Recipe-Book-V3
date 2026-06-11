@@ -1,5 +1,14 @@
 ---
-id: 1762634092384060
+tags:
+  - RecipeBook/Cuisine/Fusion
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Potpie
+  - RecipeBook/Diet/Vegetarian
+  - RecipeBook/Diet/Meat/Pork
+Source Book:
+Last edit: 2026-06-10 23:36
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1kg [[Potato|potatoes]]
@@ -25,5 +34,3 @@ id: 1762634092384060
 5. Heat the rest of the oil in another pan on high heat, and fry the cabbage for ~7 minutes. After 5 minutes, add the five spices.
 6. Drain the potatoes, add the milk and a little bit more olive oil. Mash into a puree. Add the cabbage.
 7. Serve hot with the gravy made in step 3 and the parsley leaves from step 2 as garnish.
-
-#RecipeBook/Cuisine/Fusion #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Potpie #RecipeBook/Diet/Vegetarian #RecipeBook/Diet/Meat/Pork 

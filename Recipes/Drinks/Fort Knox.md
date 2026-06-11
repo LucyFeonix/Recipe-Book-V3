@@ -1,5 +1,11 @@
 ---
-id: 1762634091576179
+tags:
+  - RecipeBook/Source/Wikipedia
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:49
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Gold Strike|gold strike]]
@@ -11,4 +17,3 @@ id: 1762634091576179
 # Directions
 1. Pour the shot of gold strike.
 2. Top up with tonic.
- #RecipeBook/Source/Wikipedia #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Course/Drink #RecipeBook/Diet/Vegan  

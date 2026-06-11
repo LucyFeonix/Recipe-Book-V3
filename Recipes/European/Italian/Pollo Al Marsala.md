@@ -1,5 +1,13 @@
 ---
-id: 1762634092294079
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Smaakmenutie
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Chicken
+  - RecipeBook/Diet/Meat/Chicken
+Source Book:
+Last edit: 2026-06-7 22:29
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 400g [[Chicken Breast|chicken breast]]
@@ -23,4 +31,3 @@ id: 1762634092294079
 5. Pour the marsala wine over the mixture and let reduce until approximately half the wine remains.
 6. Add the chicken broth, and bring to a boil. Simmer for 5-10 minutes.
 7. Add the corn starch to thicken the sauce, *and garnish with parsley.*
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Source/Smaakmenutie #RecipeBook/Course/Side #RecipeBook/TypeOfFood/Chicken #RecipeBook/Diet/Meat/Chicken  

@@ -1,5 +1,11 @@
 ---
-id: 1762634091808149
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:59
+Created: 2025-11-18 05:27
 ---
 Putting this drink under a black light is recommended.
 # Ingredients
@@ -13,4 +19,3 @@ Putting this drink under a black light is recommended.
 # Directions
 1. Mix the limoncello and blue curaçao.
 2. Top up with tonic.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

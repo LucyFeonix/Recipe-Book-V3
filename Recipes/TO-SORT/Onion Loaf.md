@@ -1,5 +1,14 @@
 ---
-id: 1762634091304218
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Baking
+  - RecipeBook/TypeOfFood/Bread
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:34
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 5 tbsp [[Butter|unsalted butter]]
@@ -28,5 +37,3 @@ id: 1762634091304218
 6. Scrape the dough into the prepared dish, shape into an 8-inch log, and spread the onion mixture from step 1 on top, pressing in to adhere.
 7. Bake the loaf until it is firm to the touch on the top, and a toothpick inserted into the center comes out clean. This should take about 45-50 minutes, and rotated halfway through. 
 8. Let cool for about 10 minutes in the dish, then on a wire rack/cutting board to cool to room temperature.
-
-#RecipeBook/Cuisine/European #RecipeBook/Source/DnD #RecipeBook/Course/Baking #RecipeBook/TypeOfFood/Bread #RecipeBook/Diet/Vegetarian  

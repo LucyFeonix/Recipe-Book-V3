@@ -1,5 +1,13 @@
 ---
-id: 1762634092233089
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Sauce
+  - RecipeBook/TypeOfFood/Sauce
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-7 22:21
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 30g [[Cheese|parmesan cheese (grated)]]
@@ -17,5 +25,3 @@ id: 1762634092233089
 # Directions
 1. Add all the dry ingredients to the mortar & pestle. Grind until it is a fine paste.
 2. Add olive oil and salt to bind the mixture together. Grind until mixed thoroughly.
-
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Course/Sauce  #RecipeBook/Diet/Vegan  

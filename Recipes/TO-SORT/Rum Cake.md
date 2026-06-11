@@ -1,5 +1,13 @@
 ---
-id: 1762634091311217
+tags:
+  - RecipeBook/Cuisine/Unknown
+  - RecipeBook/Source/DeNotenshop
+  - RecipeBook/Course/Dessert
+  - RecipeBook/TypeOfFood/Cake
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-10 23:46
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 400g [[Flour|flour]]

@@ -1,5 +1,13 @@
 ---
-id: 1762634091023254
+tags:
+  - RecipeBook/Cuisine/American/USA
+  - RecipeBook/Source/AllRecipes
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Seafood
+  - RecipeBook/Diet/Pescatarian
+Source Book:
+Last edit: 2026-06-7 11:41
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 2 tsp [[Salt|salt]]

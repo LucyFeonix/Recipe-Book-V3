@@ -1,5 +1,11 @@
 ---
-id: 1762634091946127
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:05
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/2 shot [[Apfelkorn|apfelkorn]]
@@ -13,4 +19,3 @@ id: 1762634091946127
 # Directions
 1. Mix the ingredients in a shaker, add ice, and shake.
 2. Strain into a longdrink glass.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

@@ -1,5 +1,11 @@
 ---
-id: 1762634091387210
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:40
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Blue Curaçao|blue curaçao]]
@@ -11,5 +17,4 @@ id: 1762634091387210
 - Contains 6.93% ABV
 # Directions
 1. Mix the blue curaçao and the vodka.
-2. Top up with orange juice.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan  
+2. Top up with orange juice.  

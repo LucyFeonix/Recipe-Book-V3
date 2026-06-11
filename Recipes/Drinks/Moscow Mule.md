@@ -1,5 +1,11 @@
 ---
-id: 1762634091826146
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:00
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Vodka|vodka]]
@@ -15,4 +21,3 @@ id: 1762634091826146
 1. Mix the vodka and the lime juice.
 2. Top up with ginger ale.
 3. Add a couple of drops of bitters, and garnish with a sprig of mint.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

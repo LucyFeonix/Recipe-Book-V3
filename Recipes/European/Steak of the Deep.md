@@ -1,5 +1,14 @@
 ---
-id: 1762634092121065
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Fish
+  - RecipeBook/Diet/Pescatarian
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:37
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/3 cup [[Olive Oil|olive oil]]
@@ -21,4 +30,3 @@ id: 1762634092121065
 3. Sprinkle the steak on both sides with salt and pepper and nestle it into the tomato mixture. Adjust the heat to low, cover, and cook until it is opaque, firm to the touch, and registers 55°C on a thermometer (±25 minutes), turning it over halfway. Transfer to a serving platter. Tent loosely with aluminium foil and let rest for about 5 minutes.
 4. Meanwhile, adjust the heat to medium high and bring the sauce to a simmer. Add most of the parsley and the remaining sherry, and stir to blend.
 5. Top the steak with the tomato sauce, drizzle with olive oil, *and garnish with the remaining parsley*.
-#RecipeBook/Cuisine/European #RecipeBook/Source/DnD #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Fish #RecipeBook/Diet/Pescatarian  

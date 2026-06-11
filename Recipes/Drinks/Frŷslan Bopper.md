@@ -1,5 +1,11 @@
 ---
-id: 1762634091594175
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:49
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/3 shot [[Sippersbitter|sippersbitter]]
@@ -12,4 +18,3 @@ id: 1762634091594175
 # Directions
 1. Put a wet tumbler glass into the freezer for an hour.
 2. Mix the ingredients, and put into the frozen glass.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

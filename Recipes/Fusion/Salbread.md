@@ -1,5 +1,14 @@
 ---
-id: 1762634090814053
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Baking
+  - RecipeBook/TypeOfFood/Bread
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:35
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 2 cups [[Flour|flour]]
@@ -23,4 +32,3 @@ id: 1762634090814053
 5. Bake the loaf until lightly browned, a toothpick inserted into the centre comes out clean, and the edges begin to pull away from the pan (±40 minutes). 
 6. Transfer the pan to a wire rack and let cool to room temperature (±40 minutes).
 7. Turn the bread out of hte pan and cut into squares to serve.
-#RecipeBook/Cuisine/European #RecipeBook/Source/DnD #RecipeBook/Course/Baking #RecipeBook/TypeOfFood/Bread #RecipeBook/Diet/Vegetarian  

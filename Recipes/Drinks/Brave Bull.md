@@ -1,5 +1,11 @@
 ---
-id: 1762634091466197
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:43
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Tequila|tequila]]
@@ -11,5 +17,4 @@ id: 1762634091466197
 - Contains 30.5% ABV
 # Directions
 1. Mix the tequila and café Marrakesh in the tumbler.
-2. Serve over ice.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 
+2. Serve over ice. 

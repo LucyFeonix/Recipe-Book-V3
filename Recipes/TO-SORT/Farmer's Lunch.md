@@ -5,7 +5,9 @@ tags:
   - RecipeBook/Course/Lunch
   - RecipeBook/TypeOfFood/Omelette
   - RecipeBook/Diet/Vegetarian
-Last edit: 2026-02-9 20:38
+Source Book:
+  - "[[Stardew Valley Cookbook]]"
+Last edit: 2026-06-10 23:44
 Created: 2025-12-26 22:51
 ---
 # Ingredients

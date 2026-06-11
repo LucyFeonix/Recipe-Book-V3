@@ -1,5 +1,13 @@
 ---
-id: 1762634090859270
+tags:
+  - RecipeBook/Cuisine/African/SouthAfrican
+  - RecipeBook/Source/FlyingFoodie
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Stew
+  - RecipeBook/Diet/Meat/Beef
+Source Book:
+Last edit: 2026-06-7 11:28
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 300g [[Minced Meat|minced beef]]
@@ -31,4 +39,3 @@ id: 1762634090859270
 5. Put the entire mixture in an oven dish, and pack in well with the back of the spoon.
 6. In a bowl, mix the eggs with the milk, some salt, and a little bit of turmeric powder, and pour this mixture over the meat mixture. Top this mixture with the bay leaves.
 7. Place the bobotie in the middle of the oven, and bake for 25 to 30 minutes. Let cool and set for 5 minutes.
-#RecipeBook/Cuisine/African/SouthAfrican #RecipeBook/Source/FlyingFoodie #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Stew #RecipeBook/Diet/Meat/Beef 

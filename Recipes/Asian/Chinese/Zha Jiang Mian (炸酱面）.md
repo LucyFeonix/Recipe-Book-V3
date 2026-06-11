@@ -1,6 +1,12 @@
 ---
-id: 1762634091191240
-Last edit: 2026-01-11 14:27
+tags:
+  - RecipeBook/Cuisine/Asian/Chinese
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Noodles
+  - RecipeBook/Diet/Meat
+Source Book:
+Last edit: 2026-06-7 21:11
 Created: 2025-11-18 05:27
 ---
 # Ingredients

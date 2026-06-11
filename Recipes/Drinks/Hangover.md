@@ -1,5 +1,11 @@
 ---
-id: 1762634091670167
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:52
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Jameson]]
@@ -11,4 +17,3 @@ id: 1762634091670167
 - Contains 48.33%ABV
 # Directions
 1. Mix the ingredients.
-#RecipeBook/Course/Drink  #RecipeBook/Course/Drink/Alcoholic  #RecipeBook/Source/DeBolk  #RecipeBook/Diet/Vegan  

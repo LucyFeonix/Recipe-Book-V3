@@ -1,5 +1,11 @@
 ---
-id: 1762634092018110
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:09
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Beerenburg|beerenburg]]
@@ -10,4 +16,3 @@ id: 1762634092018110
 - Contains 4.67% ABV
 # Directions
 1. Add the Beerenburg to the glass, and top up with ice tea.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

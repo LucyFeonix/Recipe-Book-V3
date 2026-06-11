@@ -5,8 +5,10 @@ tags:
   - RecipeBook/Course/Main
   - RecipeBook/TypeOfFood/Salad
   - RecipeBook/Diet/Vegan
-Last edit: 2026-01-2 23:19
+Source Book: []
+Last edit: 2026-06-7 10:03
 Created: 2026-01-2 22:55
+Source Book: "[[Stardew Valley Cookbook]]"
 ---
 # Ingredients
 - 1 small [[Leek|leek]]

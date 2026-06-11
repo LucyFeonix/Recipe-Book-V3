@@ -1,5 +1,13 @@
 ---
-id: 1762634091044224
+tags:
+  - RecipeBook/Cuisine/Asian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Rice
+  - RecipeBook/Diet/Meat/Chicken
+Source Book:
+Last edit: 2026-06-7 21:21
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 350g [[Chicken Thigh Fillet|chicken thighs]]
@@ -24,5 +32,3 @@ id: 1762634091044224
 5. Fruit the minced shallot/onion for about a minute in some oil. Add the chicken and dressing and fry until a golden brown, taking care to stir.
 6. Add the broccoli to the chicken.
 7. *Garnish with spring onion, an extra red pepper, and a slice of lime.*
-
-#RecipeBook/Cuisine/Asian #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Rice #RecipeBook/Diet/Meat/Chicken 

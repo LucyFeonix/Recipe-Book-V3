@@ -1,5 +1,14 @@
 ---
-id: 1762634091051229
+tags:
+  - RecipeBook/Cuisine/Asian
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Stirfry
+  - RecipeBook/Diet/Vegan
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:29
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 14-20oz [[Tofu|firm tofu]]
@@ -30,4 +39,3 @@ id: 1762634091051229
 7. Add 2 more teaspoons of oil. Stir fry the carrots, bell pepper and some salt, for about 2 minutes.
 8. Lower the heat to medium, add 4 more teaspoons of oil, and clear the centre of the skillet. Add the ginger-garlic mixture in the middle, and stir and mash until fragrant (±45 seconds). Whisk in the soy sauce mixture until thickened, 45 more seconds.
 9. Add the tofu, bok choy, scallion greens and some more salt and [[Black Pepper|pepper]] to the skillet, and cook, stirring constantly, for about a minute. 
-#RecipeBook/Cuisine/Asian #RecipeBook/Source/DnD #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Stirfry #RecipeBook/Diet/Vegan

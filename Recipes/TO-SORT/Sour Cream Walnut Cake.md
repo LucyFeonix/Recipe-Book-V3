@@ -1,5 +1,14 @@
 ---
-id: 1762634091316216
+tags:
+  - RecipeBook/Cuisine/European
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Baking
+  - RecipeBook/TypeOfFood/Cake
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:36
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 ## Topping
@@ -42,5 +51,3 @@ id: 1762634091316216
 5. Sprinkle the topping evenly over the surface.
 6. Bake until the top is lightly browned and a toothpick inserted into the centre comes out clean, about 40-45 minutes, and rotate halfway through.
 7. Let cool to room temperature before cutting and serving.
-
-#RecipeBook/Cuisine/European #RecipeBook/Source/DnD #RecipeBook/Course/Baking #RecipeBook/TypeOfFood/Cake #RecipeBook/Diet/Vegetarian  

@@ -5,7 +5,8 @@ tags:
   - RecipeBook/Course/Main
   - RecipeBook/TypeOfFood/Stirfry
   - RecipeBook/Diet/Vegan
-Last edit: 2025-11-21 02:31
+Source Book:
+Last edit: 2026-06-7 11:46
 Created: 2025-11-21 02:17
 ---
 # Ingredients

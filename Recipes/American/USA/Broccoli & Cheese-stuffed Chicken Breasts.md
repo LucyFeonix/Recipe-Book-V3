@@ -1,5 +1,13 @@
 ---
-id: 1762634090957259
+tags:
+  - RecipeBook/Cuisine/American/USA
+  - RecipeBook/Source/ItIsAKeeper
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Chicken
+  - RecipeBook/Diet/Meat/Chicken
+Source Book:
+Last edit: 2026-06-7 11:35
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 4 [[Chicken Breast|large chicken breasts]]
@@ -19,4 +27,3 @@ id: 1762634090957259
 5. Stuff each chicken breast with the filling. Sprinkle more cajun seasoning on top.
 6. Brush with oil on top, and bake for 25-30 minutes (or until the chicken is cooked through).
 7. Serve hot.
-#RecipeBook/Cuisine/American/USA #RecipeBook/Source/ItIsAKeeper #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Chicken #RecipeBook/Diet/Meat/Chicken  

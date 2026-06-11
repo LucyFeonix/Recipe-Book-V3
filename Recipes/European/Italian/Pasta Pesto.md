@@ -1,5 +1,13 @@
 ---
-id: 1762634092277083
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Pasta
+  - RecipeBook/Diet/Meat/Chicken
+Source Book:
+Last edit: 2026-06-7 22:27
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 250g [[Pasta|pasta]]
@@ -22,6 +30,3 @@ id: 1762634092277083
 4. Boil the pasta according to package instructions. Boil the green beans with the pasta for ~5 minutes. Strain *and add to the chicken/mushroom pan* and/or add back to the pot.
 5. Add the pine tree nuts and pesto to the mix.
 6. Serve hot. *Garnish with fresh basil, and/or with a cheese like pecorino romano or your own [[Vegan Parmesan|vegan parmesan]].*
-
-#RecipeBook/Cuisine/European/Italian #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Pasta #RecipeBook/Diet/Meat/Chicken #RecipeBook/Diet/Vegetarian #RecipeBook/Diet/Vegan 
-

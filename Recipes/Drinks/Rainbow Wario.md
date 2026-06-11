@@ -1,5 +1,11 @@
 ---
-id: 1762634091915131
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:05
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/4 shot [[Passoã|passoa]]
@@ -14,4 +20,3 @@ id: 1762634091915131
 # Directions
 1. Mix the passoa, blue curaçao, pisang ambon and coebergh.
 2. Top up with orange juice.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

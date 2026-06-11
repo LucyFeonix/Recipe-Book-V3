@@ -1,5 +1,16 @@
 ---
-id: 1762634091144243
+tags:
+  - RecipeBook/Cuisine/Chinese
+  - RecipeBook/Source/RedHouseSpice
+  - RecipeBook/Source/Original
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Dumpling
+  - RecipeBook/Diet/Meat
+  - RecipeBook/Diet/Vegetarian
+  - RecipeBook/Diet/Vegan
+Source Book:
+Last edit: 2026-06-7 21:03
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 500g [[Flour|all-purpose flour]]
@@ -34,5 +45,3 @@ id: 1762634091144243
 2. Bring water to a full boil in a pot/wok, then place the baskets over the water. Cover with a lid, then steam over medium heat for 10 minutes (or 12 minutes if steaming from frozen).
 ## Storing
 Place assembled, uncooked dumplings on a tray lined with parchment paper or dusted with flour. Once completely frozen, the dumplings can be transferred to an airtight container. They will keep well frozen for about three months.
-
-#RecipeBook/Cuisine/Chinese #RecipeBook/Source/RedHouseSpice #RecipeBook/Source/Original #RecipeBook/Course/Side #RecipeBook/TypeOfFood/Dumpling #RecipeBook/Diet/Meat #RecipeBook/Diet/Vegetarian #RecipeBook/Diet/Vegan  

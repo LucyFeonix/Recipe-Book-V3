@@ -1,11 +1,12 @@
 ---
 tags:
-  - RecipeBook/Cuisine/Japanese
+  - RecipeBook/Cuisine/Asian/Japanese
   - RecipeBook/Source/JustOneCookbook
   - RecipeBook/Course/Side
   - RecipeBook/TypeOfFood/Shrimp
   - RecipeBook/Diet/Pescatarian
-Last edit: 2025-11-30 21:31
+Source Book: []
+Last edit: 2026-06-7 21:16
 Created: 2025-11-30 21:16
 ---
 # Ingredients

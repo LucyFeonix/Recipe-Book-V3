@@ -1,5 +1,12 @@
 ---
-id: 1762634091855142
+tags:
+  - RecipeBook/Source/DnD
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book:
+  - "[[Flavors of the Multiverse]]"
+Last edit: 2026-06-10 18:33
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 2 [[Orange|oranges]]
@@ -23,4 +30,3 @@ id: 1762634091855142
 6. Quarter the remaining orange, and slice the quarters crosswise. Quarter and core the apple, and thinly slice the quarters crosswise.
 7. Add the orange, apple, seltzer, and ice cubes to the pitcher, and stir to blend.
 8. Serve over ice.
-#RecipeBook/Source/DnD #RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Diet/Vegan 

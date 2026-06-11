@@ -1,5 +1,11 @@
 ---
-id: 1762634091860137
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:01
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 2/3 shot [[Cointreau|cointreau]]
@@ -11,4 +17,3 @@ id: 1762634091860137
 # Directions
 1. Mix the cointreau and the vodka.
 2. Shake well with ice.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

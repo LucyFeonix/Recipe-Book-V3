@@ -1,5 +1,13 @@
 ---
-id: 1762634091150239
+tags:
+  - RecipeBook/Cuisine/Asian
+  - RecipeBook/Source/Smaakmenutie
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Rice
+  - RecipeBook/Diet/Meat/Chicken
+Source Book:
+Last edit: 2026-06-7 21:04
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 350g [[Chicken Thigh Fillet]]

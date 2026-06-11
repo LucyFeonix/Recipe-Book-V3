@@ -1,5 +1,11 @@
 ---
-id: 1762634091910132
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:04
+Created: 2025-11-18 05:27
 ---
 
 # Ingredients
@@ -15,4 +21,3 @@ id: 1762634091910132
 # Directions
 1. Mix the blue curaçao, coebergh, gin, and vodka.
 2. Top up with grape soda.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

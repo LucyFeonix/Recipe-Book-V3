@@ -5,7 +5,9 @@ tags:
   - RecipeBook/Course/Main
   - RecipeBook/TypeOfFood/Stirfry
   - RecipeBook/Diet/Vegetarian
-Last edit: 2026-01-3 22:55
+Source Book:
+  - "[[Stardew Valley Cookbook]]"
+Last edit: 2026-06-10 23:46
 Created: 2026-01-2 22:10
 ---
 # Ingredients

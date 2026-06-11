@@ -1,11 +1,12 @@
 ---
 tags:
-  - RecipeBook/Cuisine/Japanese
+  - RecipeBook/Cuisine/Asian/Japanese
   - RecipeBook/Source/TarasMultiCulturalTable
   - RecipeBook/Course/Side
   - RecipeBook/TypeOfFood/Potato
   - RecipeBook/Diet/Vegetarian
-Last edit: 2025-12-1 00:22
+Source Book: []
+Last edit: 2026-06-7 21:17
 Created: 2025-12-1 00:16
 ---
 # Ingredients

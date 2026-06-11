@@ -1,5 +1,13 @@
 ---
-id: 1762634092313077
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Original
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Pasta
+  - RecipeBook/Diet/Meat/Pork
+Source Book:
+Last edit: 2026-06-7 22:33
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 250g [[Pasta|fusilli]]

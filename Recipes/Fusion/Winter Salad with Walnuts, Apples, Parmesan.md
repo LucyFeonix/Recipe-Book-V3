@@ -1,5 +1,13 @@
 ---
-id: 1762634092412056
+tags:
+  - RecipeBook/Cuisine/Unknown
+  - RecipeBook/Source/SeriousEats
+  - RecipeBook/Course/Main
+  - RecipeBook/TypeOfFood/Salad
+  - RecipeBook/Diet/Pescatarian
+Source Book:
+Last edit: 2026-06-10 23:38
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/2 cup [[Mayonnaise]]
@@ -21,4 +29,3 @@ id: 1762634092412056
 # Directions
 1. Combine the mayonnaise, parmesan, mashed anchovy, lemon juice, and Worcestershire sauce in a bowl, and whisk to combine. Season to taste with [[Salt|salt]] and [[Black Pepper|pepper]].
 2. Toss the endive, radicchio, frisée, apples, and parsley, with the dressing. Add the nuts, and toss briefly. Serve immediately.
-#RecipeBook/Cuisine/Unknown #RecipeBook/Source/SeriousEats #RecipeBook/Course/Main #RecipeBook/TypeOfFood/Salad #RecipeBook/Diet/Pescatarian

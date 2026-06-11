@@ -1,5 +1,11 @@
 ---
-id: 1762634091898129
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 22:04
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1/2 shot [[Pisang Ambon|pisang ambon]]
@@ -12,4 +18,3 @@ id: 1762634091898129
 1. Add the 1/2 shot pisang to the longdrink glass.
 2. Top up with beer.
 3. Add a banana candy for garnish.
-#RecipeBook/Course/Drink #RecipeBook/Course/Drink/Alcoholic #RecipeBook/Source/DeBolk #RecipeBook/Diet/Vegan 

@@ -1,5 +1,15 @@
 ---
-id: 1762634092301080
+aliases:
+  - stuffed tomatoes
+tags:
+  - RecipeBook/Cuisine/European/Italian
+  - RecipeBook/Source/Unknown
+  - RecipeBook/Course/Side
+  - RecipeBook/TypeOfFood/Tomatoes
+  - RecipeBook/Diet/Vegetarian
+Source Book:
+Last edit: 2026-06-7 22:31
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 6 medium [[Tomato|tomatoes]]
@@ -29,6 +39,3 @@ id: 1762634092301080
 7. Place in a lightly oiled baking dish, with 60ml of water *or the white wine*.
 8. Bake in the oven for ~30 minutes. 
 9. Serve hot.
-
-#RecipeBook/Cuisine/European/Italian  #RecipeBook/Course/Side #RecipeBook/Diet/Vegetarian #RecipeBook/Diet/Vegan 
-%%Stuffed Tomatoes%%

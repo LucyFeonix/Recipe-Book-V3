@@ -1,5 +1,11 @@
 ---
-id: 1762634091544185
+tags:
+  - RecipeBook/Source/DeBolk
+  - RecipeBook/Course/Drink/Alcoholic
+  - RecipeBook/Diet/Vegan
+Source Book: []
+Last edit: 2026-06-7 21:47
+Created: 2025-11-18 05:27
 ---
 # Ingredients
 - 1 shot [[Bacardi Lemon|Bacardi lemon]]
@@ -13,4 +19,3 @@ id: 1762634091544185
 # Directions
 1. Mix the bacardi lemon, vodka, and apfelkorn.
 2. Top up with sprite.
-#RecipeBook/Course/Drink  #RecipeBook/Course/Drink/Alcoholic  #RecipeBook/Source/DeBolk  #RecipeBook/Diet/Vegan 
