@@ -6,7 +6,7 @@ tags:
   - RecipeBook/TypeOfFood/Pasta
   - RecipeBook/Diet/Vegetarian
 Source Book:
-Last edit: 2026-06-7 22:26
+Last edit: 2026-06-12 13:33
 Created: 2025-11-18 05:27
 ---
 # Ingredients

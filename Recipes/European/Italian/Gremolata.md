@@ -6,7 +6,7 @@ tags:
   - RecipeBook/TypeOfFood/Sauce
   - RecipeBook/Diet/Vegan
 Source Book:
-Last edit: 2026-06-7 22:20
+Last edit: 2026-06-11 19:21
 Created: 2025-11-18 05:27
 ---
 # Ingredients
