@@ -19,4 +19,4 @@ id: 1762634090110506
 
 #RecipeBook/Ingredient 
 
-[[02 - Areas/II. Recipes/Recipes/TO-SORT/TODO]] reword
+[[04 - Permanent/II. Recipes/Recipes/TO-SORT/TODO]] reword

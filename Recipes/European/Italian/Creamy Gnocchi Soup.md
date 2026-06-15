@@ -17,7 +17,7 @@ Created: 2026-05-15 22:54
 - 1 [[Leek|leek]], cut into half-rings
 - 1 [[Shallots|shallot]], diced
 - 3 cloves [[Garlic|garlic]], minced
-- 1L [[Vegetable stock|vegetable stock]] or [[Chicken Stock|chicken stock]]
+- 1L [[Vegetable Stock|vegetable stock]] or [[Chicken Stock|chicken stock]]
 - 240mL [[Heavy Cream|heavy cream]]
 - 2 handfuls [[Spinach|spinach]]
 - *[[Parmesan Cheese|Parmesan cheese]] to taste*

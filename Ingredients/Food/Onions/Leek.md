@@ -5,4 +5,4 @@ Leeks are like overgrown [[Scallions|scallions]], and are great in soups and sau
 
 #RecipeBook/Ingredient 
 
-[[02 - Areas/II. Recipes/Recipes/TO-SORT/TODO]]
+[[04 - Permanent/II. Recipes/Recipes/TO-SORT/TODO]]

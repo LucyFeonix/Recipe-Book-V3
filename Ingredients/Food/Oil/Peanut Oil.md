@@ -7,4 +7,4 @@ Great for frying and stir-frying, has a neutral or slightly nutty flavour. Best 
 
 #RecipeBook/Ingredient 
 
-[[02 - Areas/II. Recipes/Recipes/TO-SORT/TODO]]
+[[04 - Permanent/II. Recipes/Recipes/TO-SORT/TODO]]

@@ -5,4 +5,4 @@ Sweet onions are larger and slightly flatter than yellow onions, with less opaqu
 
 #RecipeBook/Ingredient 
 
-[[02 - Areas/II. Recipes/Recipes/TO-SORT/TODO]]
+[[04 - Permanent/II. Recipes/Recipes/TO-SORT/TODO]]

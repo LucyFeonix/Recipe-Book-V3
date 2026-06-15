@@ -13,13 +13,13 @@ Created: 2025-11-30 21:35
 - ½ cup [[Corn Starch|corn starch]]
 - 1 tsp [[Salt|salt]]
 - 1 tsp [[Black Pepper|black pepper]]
-- 2 cups [[vegetable oil|vegetable oil]]
+- 2 cups [[Vegetable Oil|vegetable oil]]
 - ¼ cup [[Light Soy Sauce|light soy sauce]]
 - ¼ cup [[Honey|honey]]
 - ¼ cup [[rice vinegar|rice vinegar]]
 - ¼ cup [[ketchup|ketchup]]
 - 1 tbsp [[Garlic|garlic]], minced
-- 1 tbsp [[ginger|ginger]], minced
+- 1 tbsp [[Ginger|ginger]], minced
 - 1 tbsp [[Sesame Oil|sesame oil]]
 - *2 tbsp [[Sesame Seed|sesame seed]], for garnish*
 - *2 [[Scallions|scallions]], thinly sliced, for garnish*

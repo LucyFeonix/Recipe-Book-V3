@@ -6,4 +6,4 @@ Muscovado sugar is deeply brown-coloured, and brings a moist texture and robust 
 
 #RecipeBook/Ingredient 
 
-[[02 - Areas/II. Recipes/Recipes/TO-SORT/TODO]]
+[[04 - Permanent/II. Recipes/Recipes/TO-SORT/TODO]]

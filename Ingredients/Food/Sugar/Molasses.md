@@ -5,4 +5,4 @@ Technically a byproduct of extracting sugarcane, molasses has a sweet, smoky fla
 
 #RecipeBook/Ingredient 
 
-[[02 - Areas/II. Recipes/Recipes/TO-SORT/TODO]]
+[[04 - Permanent/II. Recipes/Recipes/TO-SORT/TODO]]

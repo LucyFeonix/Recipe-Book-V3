@@ -14,7 +14,7 @@ Created: 2025-11-30 21:16
 - ½ cup [[Flour|flour]]
 - 5 large [[Egg|egg]]
 - 2 cups [[Bread Crumbs|bread crumbs]]
-- 4 cups [[oil|oil]]
+- 4 cups [[Oil|oil]]
 - ¼ [[Yellow Onion|onion]]
 - 1 [[Pickle|pickle]]
 - ½ [[Lemon|lemon]]

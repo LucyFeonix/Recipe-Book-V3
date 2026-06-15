@@ -11,7 +11,7 @@ Created: 2025-12-7 15:42
 ---
 # Ingredients
 - 350-500g [[Chicken Thigh Fillet|chicken thighs]]
-- 1 tbsp [[oil|neutral oil]]
+- 1 tbsp [[Oil|neutral oil]]
 - 2 tbsp [[Light Soy Sauce|light soy sauce]]
 - 2 tbsp [[Mirin|mirin]]
 - 2 tbsp [[Sake|sake]]

@@ -5,4 +5,4 @@ Also a syrup, it's a popular sugar product used in desserts such as baklava. It'
 
 #RecipeBook/Ingredient 
 
-[[02 - Areas/II. Recipes/Recipes/TO-SORT/TODO]]
+[[04 - Permanent/II. Recipes/Recipes/TO-SORT/TODO]]

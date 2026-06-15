@@ -11,7 +11,7 @@ Created: 2026-02-3 22:13
 # Ingredients
 - 1.2L [[Chicken Stock|chicken stock]]
 - 1 [[Yellow Onion|yellow onion]], diced
-- 60g [[unsalted butter|unsalted butter]]
+- 60g [[Unsalted Butter|unsalted butter]]
 - 300g [[Arborio Rice|arborio rice]]
 - 100ml [[White Wine|dry white wine]]
 - 75g [[Parmigiano Reggiano|parmigiano reggiano]]

@@ -5,4 +5,4 @@ This syrup has a thinner consistency than molasses and has a slightly sour taste
 
 #RecipeBook/Ingredient 
 
-[[02 - Areas/II. Recipes/Recipes/TO-SORT/TODO]]
+[[04 - Permanent/II. Recipes/Recipes/TO-SORT/TODO]]

@@ -5,4 +5,4 @@ Maple syrup has a fluid yet viscous texture and a caramel flavour. It's great as
 
 #RecipeBook/Ingredient 
 
-[[02 - Areas/II. Recipes/Recipes/TO-SORT/TODO]]
+[[04 - Permanent/II. Recipes/Recipes/TO-SORT/TODO]]

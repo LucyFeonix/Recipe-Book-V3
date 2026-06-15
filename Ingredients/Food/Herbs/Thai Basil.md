@@ -6,4 +6,4 @@ The herb has a distinctive, pronounced anise-like flavour. It is more savoury th
 
 #RecipeBook/Ingredient 
 
-[[02 - Areas/II. Recipes/Recipes/TO-SORT/TODO]]
+[[04 - Permanent/II. Recipes/Recipes/TO-SORT/TODO]]

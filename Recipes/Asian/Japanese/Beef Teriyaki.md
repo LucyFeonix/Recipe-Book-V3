@@ -16,7 +16,7 @@ Created: 2025-12-7 15:06
 - 60ml [[Sake|sake]]
 - 60ml [[Mirin|mirin]]
 - 1.5 tsp [[Ginger|ginger juice]]
-- 2 tsp [[sugar|granulated sugar]]
+- 2 tsp [[Sugar|granulated sugar]]
 - *1.5tsp [[Corn Starch Slurry|corn starch slurry]]*
 - *1 [[Scallions|scallion]]*
 - *1 tsp [[sesame seed|white sesame seeds]]*
