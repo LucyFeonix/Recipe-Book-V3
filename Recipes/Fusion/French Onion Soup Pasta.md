@@ -7,7 +7,7 @@ tags:
   - RecipeBook/Diet/Meat
   - RecipeBook/Diet/Vegetarian
 Source Book:
-Last edit: 2026-06-10 23:37
+Last edit: 2026-06-17 14:10
 Created: 2025-11-18 05:27
 ---
 # Ingredients
@@ -29,6 +29,6 @@ Created: 2025-11-18 05:27
 # Directions
 1. Cut the onion into thin rings. Heat the butter and oil in a skillet, and caramelise the onions on medium heat (~40 minutes)
 2. Meanwhile, finely mince the garlic, and remove the leaves from the herbs. In the last 5 minutes of caramelisation, add the garlic, herbs, and cognac.
-3. Mix the beef stock and boiling water, and add the pasta. Put to boil for 20 minutes.
+3. Add the beef stock and boiling water, and add the pasta. Put to boil for 20 minutes with the lid on.
 4. Meanwhile, grate the cheese. In the last 5 minutes of boiling the pasta, divide the cheese over the pasta, and cook uncovered for 5 more minutes.
 5. Serve, *garnished with chives*.

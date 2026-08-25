@@ -7,10 +7,10 @@ tags:
   - RecipeBook/Diet/Vegan
 Source Book:
   - "[[Flavors of the Multiverse]]"
-Last edit: 2026-06-10 18:25
+Last edit: 2026-06-28 16:26
 Created: 2025-11-18 05:27
 ---
-# Ingredients
+ma# Ingredients
 - 1 lb [[Cabbage|green cabbage]], finely shredded
 > [!note]  The green cabbage can also be substituted for 1 1/2 lb brussels sprouts.
 - Kosher [[Salt|salt]]

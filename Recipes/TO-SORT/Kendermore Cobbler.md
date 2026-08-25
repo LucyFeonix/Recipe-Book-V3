@@ -7,7 +7,7 @@ tags:
   - RecipeBook/Diet/Vegetarian
 Source Book:
   - "[[Flavors of the Multiverse]]"
-Last edit: 2026-06-16 17:45
+Last edit: 2026-06-16 17:47
 Created: 2026-06-15 19:33
 ---
 # Ingredients
